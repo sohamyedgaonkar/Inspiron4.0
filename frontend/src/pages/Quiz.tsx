@@ -386,7 +386,7 @@ const Quiz = () => {
   }
 
   return (
-    <div className="container mx-auto py-8 px-4 mt-20 min-h-screen">
+    <div className="container mx-auto py-8 px-4 min-h-screen">
       <div className="max-w-4xl mx-auto space-y-8">
         <div className="space-y-8">
           {questions.map((question) => (
