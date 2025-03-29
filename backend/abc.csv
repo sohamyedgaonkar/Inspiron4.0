@@ -1,0 +1,206 @@
+title,description,url,duration,topic,difficulty_level
+Introduction to Python Programming,"Learn basic Python syntax, variables, and simple programs.",https://youtube.com/python-intro,15.5,Programming,Basic
+Getting Started with HTML and CSS,Understand the structure of web pages and style them with CSS.,https://youtube.com/html-css-basics,18.0,Web Development,Basic
+What is Artificial Intelligence?,"An overview of AI concepts, applications, and history.",https://youtube.com/intro-to-ai,12.0,AI,Basic
+Cloud Computing Basics,"Introduction to cloud computing, its types, and key providers.",https://youtube.com/cloud-computing-basics,16.0,Cloud Computing,Basic
+Blockchain 101: How It Works,Learn the basics of blockchain technology and its use cases.,https://youtube.com/blockchain-101,14.0,Blockchain,Basic
+Mobile App Development for Beginners,Create your first mobile app using drag-and-drop tools.,https://youtube.com/app-dev-basics,20.0,App Development,Basic
+Intermediate Python: Data Structures,"Deep dive into lists, dictionaries, and their applications.",https://youtube.com/intermediate-python,22.5,Programming,Intermediate
+CSS Flexbox and Grid Layout,Master layout techniques using CSS Flexbox and Grid.,https://youtube.com/css-flexbox-grid,25.0,Web Development,Intermediate
+Supervised Machine Learning Explained,Learn the concepts of supervised learning and regression.,https://youtube.com/supervised-ml,30.0,AI,Intermediate
+AWS Basics: Introduction to S3 and EC2,"Learn the basics of Amazon Web Services, focusing on S3 and EC2.",https://youtube.com/aws-basics,28.0,Cloud Computing,Intermediate
+Building a Smart Contract with Solidity,Create a simple smart contract on Ethereum using Solidity.,https://youtube.com/solidity-smart-contract,24.0,Blockchain,Intermediate
+Building Responsive Mobile Apps,Learn to build responsive apps using React Native.,https://youtube.com/react-native-responsive-apps,27.0,App Development,Intermediate
+Advanced Python: Generators and Decorators,"Explore Python generators, decorators, and their advanced use cases.",https://youtube.com/advanced-python,35.0,Programming,Advanced
+Advanced JavaScript: Understanding Async/Await,Master asynchronous programming in JavaScript with async/await.,https://youtube.com/advanced-js-async,32.0,Web Development,Advanced
+Deep Learning: Convolutional Neural Networks,Learn the theory and implementation of CNNs with PyTorch.,https://youtube.com/cnn-pytorch,40.0,AI,Advanced
+Kubernetes for Cloud Deployment,Advanced Kubernetes concepts for deploying and managing cloud apps.,https://youtube.com/kubernetes-advanced,38.0,Cloud Computing,Advanced
+Blockchain Scalability: Sharding and Layer 2,Explore advanced blockchain scalability techniques.,https://youtube.com/blockchain-scalability,34.0,Blockchain,Advanced
+Advanced Flutter Techniques,"Build complex, high-performance apps using Flutter.",https://youtube.com/flutter-advanced,36.0,App Development,Advanced
+Sample Video 14,Description for video 14 covering educational content.,https://youtube.com/sample-video-14,17.0,AI,Advanced
+Sample Video 15,Description for video 15 covering educational content.,https://youtube.com/sample-video-15,17.5,Cloud Computing,Basic
+Sample Video 16,Description for video 16 covering educational content.,https://youtube.com/sample-video-16,18.0,Blockchain,Intermediate
+Sample Video 17,Description for video 17 covering educational content.,https://youtube.com/sample-video-17,18.5,App Development,Advanced
+Sample Video 18,Description for video 18 covering educational content.,https://youtube.com/sample-video-18,19.0,Programming,Basic
+Sample Video 19,Description for video 19 covering educational content.,https://youtube.com/sample-video-19,19.5,Web Development,Intermediate
+Sample Video 20,Description for video 20 covering educational content.,https://youtube.com/sample-video-20,10.0,AI,Advanced
+Sample Video 21,Description for video 21 covering educational content.,https://youtube.com/sample-video-21,10.5,Cloud Computing,Basic
+Sample Video 22,Description for video 22 covering educational content.,https://youtube.com/sample-video-22,11.0,Blockchain,Intermediate
+Sample Video 23,Description for video 23 covering educational content.,https://youtube.com/sample-video-23,11.5,App Development,Advanced
+Sample Video 24,Description for video 24 covering educational content.,https://youtube.com/sample-video-24,12.0,Programming,Basic
+Sample Video 25,Description for video 25 covering educational content.,https://youtube.com/sample-video-25,12.5,Web Development,Intermediate
+Sample Video 26,Description for video 26 covering educational content.,https://youtube.com/sample-video-26,13.0,AI,Advanced
+Sample Video 27,Description for video 27 covering educational content.,https://youtube.com/sample-video-27,13.5,Cloud Computing,Basic
+Sample Video 28,Description for video 28 covering educational content.,https://youtube.com/sample-video-28,14.0,Blockchain,Intermediate
+Sample Video 29,Description for video 29 covering educational content.,https://youtube.com/sample-video-29,14.5,App Development,Advanced
+Sample Video 30,Description for video 30 covering educational content.,https://youtube.com/sample-video-30,15.0,Programming,Basic
+Sample Video 31,Description for video 31 covering educational content.,https://youtube.com/sample-video-31,15.5,Web Development,Intermediate
+Sample Video 32,Description for video 32 covering educational content.,https://youtube.com/sample-video-32,16.0,AI,Advanced
+Sample Video 33,Description for video 33 covering educational content.,https://youtube.com/sample-video-33,16.5,Cloud Computing,Basic
+Sample Video 34,Description for video 34 covering educational content.,https://youtube.com/sample-video-34,17.0,Blockchain,Intermediate
+Sample Video 35,Description for video 35 covering educational content.,https://youtube.com/sample-video-35,17.5,App Development,Advanced
+Sample Video 36,Description for video 36 covering educational content.,https://youtube.com/sample-video-36,18.0,Programming,Basic
+Sample Video 37,Description for video 37 covering educational content.,https://youtube.com/sample-video-37,18.5,Web Development,Intermediate
+Sample Video 38,Description for video 38 covering educational content.,https://youtube.com/sample-video-38,19.0,AI,Advanced
+Sample Video 39,Description for video 39 covering educational content.,https://youtube.com/sample-video-39,19.5,Cloud Computing,Basic
+Sample Video 40,Description for video 40 covering educational content.,https://youtube.com/sample-video-40,10.0,Blockchain,Intermediate
+Sample Video 41,Description for video 41 covering educational content.,https://youtube.com/sample-video-41,10.5,App Development,Advanced
+Sample Video 42,Description for video 42 covering educational content.,https://youtube.com/sample-video-42,11.0,Programming,Basic
+Sample Video 43,Description for video 43 covering educational content.,https://youtube.com/sample-video-43,11.5,Web Development,Intermediate
+Sample Video 44,Description for video 44 covering educational content.,https://youtube.com/sample-video-44,12.0,AI,Advanced
+Sample Video 45,Description for video 45 covering educational content.,https://youtube.com/sample-video-45,12.5,Cloud Computing,Basic
+Sample Video 46,Description for video 46 covering educational content.,https://youtube.com/sample-video-46,13.0,Blockchain,Intermediate
+Sample Video 47,Description for video 47 covering educational content.,https://youtube.com/sample-video-47,13.5,App Development,Advanced
+Sample Video 48,Description for video 48 covering educational content.,https://youtube.com/sample-video-48,14.0,Programming,Basic
+Sample Video 49,Description for video 49 covering educational content.,https://youtube.com/sample-video-49,14.5,Web Development,Intermediate
+Sample Video 50,Description for video 50 covering educational content.,https://youtube.com/sample-video-50,15.0,AI,Advanced
+Sample Video 51,Description for video 51 covering educational content.,https://youtube.com/sample-video-51,15.5,Cloud Computing,Basic
+Sample Video 52,Description for video 52 covering educational content.,https://youtube.com/sample-video-52,16.0,Blockchain,Intermediate
+Sample Video 53,Description for video 53 covering educational content.,https://youtube.com/sample-video-53,16.5,App Development,Advanced
+Sample Video 54,Description for video 54 covering educational content.,https://youtube.com/sample-video-54,17.0,Programming,Basic
+Sample Video 55,Description for video 55 covering educational content.,https://youtube.com/sample-video-55,17.5,Web Development,Intermediate
+Sample Video 56,Description for video 56 covering educational content.,https://youtube.com/sample-video-56,18.0,AI,Advanced
+Sample Video 57,Description for video 57 covering educational content.,https://youtube.com/sample-video-57,18.5,Cloud Computing,Basic
+Sample Video 58,Description for video 58 covering educational content.,https://youtube.com/sample-video-58,19.0,Blockchain,Intermediate
+Sample Video 59,Description for video 59 covering educational content.,https://youtube.com/sample-video-59,19.5,App Development,Advanced
+Sample Video 60,Description for video 60 covering educational content.,https://youtube.com/sample-video-60,10.0,Programming,Basic
+Sample Video 61,Description for video 61 covering educational content.,https://youtube.com/sample-video-61,10.5,Web Development,Intermediate
+Sample Video 62,Description for video 62 covering educational content.,https://youtube.com/sample-video-62,11.0,AI,Advanced
+Sample Video 63,Description for video 63 covering educational content.,https://youtube.com/sample-video-63,11.5,Cloud Computing,Basic
+Sample Video 64,Description for video 64 covering educational content.,https://youtube.com/sample-video-64,12.0,Blockchain,Intermediate
+Sample Video 65,Description for video 65 covering educational content.,https://youtube.com/sample-video-65,12.5,App Development,Advanced
+Sample Video 66,Description for video 66 covering educational content.,https://youtube.com/sample-video-66,13.0,Programming,Basic
+Sample Video 67,Description for video 67 covering educational content.,https://youtube.com/sample-video-67,13.5,Web Development,Intermediate
+Sample Video 68,Description for video 68 covering educational content.,https://youtube.com/sample-video-68,14.0,AI,Advanced
+Sample Video 69,Description for video 69 covering educational content.,https://youtube.com/sample-video-69,14.5,Cloud Computing,Basic
+Sample Video 70,Description for video 70 covering educational content.,https://youtube.com/sample-video-70,15.0,Blockchain,Intermediate
+Sample Video 71,Description for video 71 covering educational content.,https://youtube.com/sample-video-71,15.5,App Development,Advanced
+Sample Video 72,Description for video 72 covering educational content.,https://youtube.com/sample-video-72,16.0,Programming,Basic
+Sample Video 73,Description for video 73 covering educational content.,https://youtube.com/sample-video-73,16.5,Web Development,Intermediate
+Sample Video 74,Description for video 74 covering educational content.,https://youtube.com/sample-video-74,17.0,AI,Advanced
+Sample Video 75,Description for video 75 covering educational content.,https://youtube.com/sample-video-75,17.5,Cloud Computing,Basic
+Sample Video 76,Description for video 76 covering educational content.,https://youtube.com/sample-video-76,18.0,Blockchain,Intermediate
+Sample Video 77,Description for video 77 covering educational content.,https://youtube.com/sample-video-77,18.5,App Development,Advanced
+Sample Video 78,Description for video 78 covering educational content.,https://youtube.com/sample-video-78,19.0,Programming,Basic
+Sample Video 79,Description for video 79 covering educational content.,https://youtube.com/sample-video-79,19.5,Web Development,Intermediate
+Sample Video 80,Description for video 80 covering educational content.,https://youtube.com/sample-video-80,10.0,AI,Advanced
+Sample Video 81,Description for video 81 covering educational content.,https://youtube.com/sample-video-81,10.5,Cloud Computing,Basic
+Sample Video 82,Description for video 82 covering educational content.,https://youtube.com/sample-video-82,11.0,Blockchain,Intermediate
+Sample Video 83,Description for video 83 covering educational content.,https://youtube.com/sample-video-83,11.5,App Development,Advanced
+Sample Video 84,Description for video 84 covering educational content.,https://youtube.com/sample-video-84,12.0,Programming,Basic
+Sample Video 85,Description for video 85 covering educational content.,https://youtube.com/sample-video-85,12.5,Web Development,Intermediate
+Sample Video 86,Description for video 86 covering educational content.,https://youtube.com/sample-video-86,13.0,AI,Advanced
+Sample Video 87,Description for video 87 covering educational content.,https://youtube.com/sample-video-87,13.5,Cloud Computing,Basic
+Sample Video 88,Description for video 88 covering educational content.,https://youtube.com/sample-video-88,14.0,Blockchain,Intermediate
+Sample Video 89,Description for video 89 covering educational content.,https://youtube.com/sample-video-89,14.5,App Development,Advanced
+Sample Video 90,Description for video 90 covering educational content.,https://youtube.com/sample-video-90,15.0,Programming,Basic
+Sample Video 91,Description for video 91 covering educational content.,https://youtube.com/sample-video-91,15.5,Web Development,Intermediate
+Sample Video 92,Description for video 92 covering educational content.,https://youtube.com/sample-video-92,16.0,AI,Advanced
+Sample Video 93,Description for video 93 covering educational content.,https://youtube.com/sample-video-93,16.5,Cloud Computing,Basic
+Sample Video 94,Description for video 94 covering educational content.,https://youtube.com/sample-video-94,17.0,Blockchain,Intermediate
+Sample Video 95,Description for video 95 covering educational content.,https://youtube.com/sample-video-95,17.5,App Development,Advanced
+Sample Video 96,Description for video 96 covering educational content.,https://youtube.com/sample-video-96,18.0,Programming,Basic
+Sample Video 97,Description for video 97 covering educational content.,https://youtube.com/sample-video-97,18.5,Web Development,Intermediate
+Sample Video 98,Description for video 98 covering educational content.,https://youtube.com/sample-video-98,19.0,AI,Advanced
+Sample Video 99,Description for video 99 covering educational content.,https://youtube.com/sample-video-99,19.5,Cloud Computing,Basic
+Sample Video 100,Description for video 100 covering educational content.,https://youtube.com/sample-video-100,10.0,Blockchain,Intermediate
+Sample Video 101,Description for video 101 covering educational content.,https://youtube.com/sample-video-101,10.5,App Development,Advanced
+Sample Video 102,Description for video 102 covering educational content.,https://youtube.com/sample-video-102,11.0,Programming,Basic
+Sample Video 103,Description for video 103 covering educational content.,https://youtube.com/sample-video-103,11.5,Web Development,Intermediate
+Sample Video 104,Description for video 104 covering educational content.,https://youtube.com/sample-video-104,12.0,AI,Advanced
+Sample Video 105,Description for video 105 covering educational content.,https://youtube.com/sample-video-105,12.5,Cloud Computing,Basic
+Sample Video 106,Description for video 106 covering educational content.,https://youtube.com/sample-video-106,13.0,Blockchain,Intermediate
+Sample Video 107,Description for video 107 covering educational content.,https://youtube.com/sample-video-107,13.5,App Development,Advanced
+Sample Video 108,Description for video 108 covering educational content.,https://youtube.com/sample-video-108,14.0,Programming,Basic
+Sample Video 109,Description for video 109 covering educational content.,https://youtube.com/sample-video-109,14.5,Web Development,Intermediate
+Sample Video 110,Description for video 110 covering educational content.,https://youtube.com/sample-video-110,15.0,AI,Advanced
+Sample Video 111,Description for video 111 covering educational content.,https://youtube.com/sample-video-111,15.5,Cloud Computing,Basic
+Sample Video 112,Description for video 112 covering educational content.,https://youtube.com/sample-video-112,16.0,Blockchain,Intermediate
+Sample Video 113,Description for video 113 covering educational content.,https://youtube.com/sample-video-113,16.5,App Development,Advanced
+Sample Video 114,Description for video 114 covering educational content.,https://youtube.com/sample-video-114,17.0,Programming,Basic
+Sample Video 115,Description for video 115 covering educational content.,https://youtube.com/sample-video-115,17.5,Web Development,Intermediate
+Sample Video 116,Description for video 116 covering educational content.,https://youtube.com/sample-video-116,18.0,AI,Advanced
+Sample Video 117,Description for video 117 covering educational content.,https://youtube.com/sample-video-117,18.5,Cloud Computing,Basic
+Sample Video 118,Description for video 118 covering educational content.,https://youtube.com/sample-video-118,19.0,Blockchain,Intermediate
+Sample Video 119,Description for video 119 covering educational content.,https://youtube.com/sample-video-119,19.5,App Development,Advanced
+Sample Video 120,Description for video 120 covering educational content.,https://youtube.com/sample-video-120,10.0,Programming,Basic
+Sample Video 121,Description for video 121 covering educational content.,https://youtube.com/sample-video-121,10.5,Web Development,Intermediate
+Sample Video 122,Description for video 122 covering educational content.,https://youtube.com/sample-video-122,11.0,AI,Advanced
+Sample Video 123,Description for video 123 covering educational content.,https://youtube.com/sample-video-123,11.5,Cloud Computing,Basic
+Sample Video 124,Description for video 124 covering educational content.,https://youtube.com/sample-video-124,12.0,Blockchain,Intermediate
+Sample Video 125,Description for video 125 covering educational content.,https://youtube.com/sample-video-125,12.5,App Development,Advanced
+Sample Video 126,Description for video 126 covering educational content.,https://youtube.com/sample-video-126,13.0,Programming,Basic
+Sample Video 127,Description for video 127 covering educational content.,https://youtube.com/sample-video-127,13.5,Web Development,Intermediate
+Sample Video 128,Description for video 128 covering educational content.,https://youtube.com/sample-video-128,14.0,AI,Advanced
+Sample Video 129,Description for video 129 covering educational content.,https://youtube.com/sample-video-129,14.5,Cloud Computing,Basic
+Sample Video 130,Description for video 130 covering educational content.,https://youtube.com/sample-video-130,15.0,Blockchain,Intermediate
+Sample Video 131,Description for video 131 covering educational content.,https://youtube.com/sample-video-131,15.5,App Development,Advanced
+Sample Video 132,Description for video 132 covering educational content.,https://youtube.com/sample-video-132,16.0,Programming,Basic
+Sample Video 133,Description for video 133 covering educational content.,https://youtube.com/sample-video-133,16.5,Web Development,Intermediate
+Sample Video 134,Description for video 134 covering educational content.,https://youtube.com/sample-video-134,17.0,AI,Advanced
+Sample Video 135,Description for video 135 covering educational content.,https://youtube.com/sample-video-135,17.5,Cloud Computing,Basic
+Sample Video 136,Description for video 136 covering educational content.,https://youtube.com/sample-video-136,18.0,Blockchain,Intermediate
+Sample Video 137,Description for video 137 covering educational content.,https://youtube.com/sample-video-137,18.5,App Development,Advanced
+Sample Video 138,Description for video 138 covering educational content.,https://youtube.com/sample-video-138,19.0,Programming,Basic
+Sample Video 139,Description for video 139 covering educational content.,https://youtube.com/sample-video-139,19.5,Web Development,Intermediate
+Sample Video 140,Description for video 140 covering educational content.,https://youtube.com/sample-video-140,10.0,AI,Advanced
+Sample Video 141,Description for video 141 covering educational content.,https://youtube.com/sample-video-141,10.5,Cloud Computing,Basic
+Sample Video 142,Description for video 142 covering educational content.,https://youtube.com/sample-video-142,11.0,Blockchain,Intermediate
+Sample Video 143,Description for video 143 covering educational content.,https://youtube.com/sample-video-143,11.5,App Development,Advanced
+Sample Video 144,Description for video 144 covering educational content.,https://youtube.com/sample-video-144,12.0,Programming,Basic
+Sample Video 145,Description for video 145 covering educational content.,https://youtube.com/sample-video-145,12.5,Web Development,Intermediate
+Sample Video 146,Description for video 146 covering educational content.,https://youtube.com/sample-video-146,13.0,AI,Advanced
+Sample Video 147,Description for video 147 covering educational content.,https://youtube.com/sample-video-147,13.5,Cloud Computing,Basic
+Sample Video 148,Description for video 148 covering educational content.,https://youtube.com/sample-video-148,14.0,Blockchain,Intermediate
+Sample Video 149,Description for video 149 covering educational content.,https://youtube.com/sample-video-149,14.5,App Development,Advanced
+Sample Video 150,Description for video 150 covering educational content.,https://youtube.com/sample-video-150,15.0,Programming,Basic
+Sample Video 151,Description for video 151 covering educational content.,https://youtube.com/sample-video-151,15.5,Web Development,Intermediate
+Sample Video 152,Description for video 152 covering educational content.,https://youtube.com/sample-video-152,16.0,AI,Advanced
+Sample Video 153,Description for video 153 covering educational content.,https://youtube.com/sample-video-153,16.5,Cloud Computing,Basic
+Sample Video 154,Description for video 154 covering educational content.,https://youtube.com/sample-video-154,17.0,Blockchain,Intermediate
+Sample Video 155,Description for video 155 covering educational content.,https://youtube.com/sample-video-155,17.5,App Development,Advanced
+Sample Video 156,Description for video 156 covering educational content.,https://youtube.com/sample-video-156,18.0,Programming,Basic
+Sample Video 157,Description for video 157 covering educational content.,https://youtube.com/sample-video-157,18.5,Web Development,Intermediate
+Sample Video 158,Description for video 158 covering educational content.,https://youtube.com/sample-video-158,19.0,AI,Advanced
+Sample Video 159,Description for video 159 covering educational content.,https://youtube.com/sample-video-159,19.5,Cloud Computing,Basic
+Sample Video 160,Description for video 160 covering educational content.,https://youtube.com/sample-video-160,10.0,Blockchain,Intermediate
+Sample Video 161,Description for video 161 covering educational content.,https://youtube.com/sample-video-161,10.5,App Development,Advanced
+Sample Video 162,Description for video 162 covering educational content.,https://youtube.com/sample-video-162,11.0,Programming,Basic
+Sample Video 163,Description for video 163 covering educational content.,https://youtube.com/sample-video-163,11.5,Web Development,Intermediate
+Sample Video 164,Description for video 164 covering educational content.,https://youtube.com/sample-video-164,12.0,AI,Advanced
+Sample Video 165,Description for video 165 covering educational content.,https://youtube.com/sample-video-165,12.5,Cloud Computing,Basic
+Sample Video 166,Description for video 166 covering educational content.,https://youtube.com/sample-video-166,13.0,Blockchain,Intermediate
+Sample Video 167,Description for video 167 covering educational content.,https://youtube.com/sample-video-167,13.5,App Development,Advanced
+Sample Video 168,Description for video 168 covering educational content.,https://youtube.com/sample-video-168,14.0,Programming,Basic
+Sample Video 169,Description for video 169 covering educational content.,https://youtube.com/sample-video-169,14.5,Web Development,Intermediate
+Sample Video 170,Description for video 170 covering educational content.,https://youtube.com/sample-video-170,15.0,AI,Advanced
+Sample Video 171,Description for video 171 covering educational content.,https://youtube.com/sample-video-171,15.5,Cloud Computing,Basic
+Sample Video 172,Description for video 172 covering educational content.,https://youtube.com/sample-video-172,16.0,Blockchain,Intermediate
+Sample Video 173,Description for video 173 covering educational content.,https://youtube.com/sample-video-173,16.5,App Development,Advanced
+Sample Video 174,Description for video 174 covering educational content.,https://youtube.com/sample-video-174,17.0,Programming,Basic
+Sample Video 175,Description for video 175 covering educational content.,https://youtube.com/sample-video-175,17.5,Web Development,Intermediate
+Sample Video 176,Description for video 176 covering educational content.,https://youtube.com/sample-video-176,18.0,AI,Advanced
+Sample Video 177,Description for video 177 covering educational content.,https://youtube.com/sample-video-177,18.5,Cloud Computing,Basic
+Sample Video 178,Description for video 178 covering educational content.,https://youtube.com/sample-video-178,19.0,Blockchain,Intermediate
+Sample Video 179,Description for video 179 covering educational content.,https://youtube.com/sample-video-179,19.5,App Development,Advanced
+Sample Video 180,Description for video 180 covering educational content.,https://youtube.com/sample-video-180,10.0,Programming,Basic
+Sample Video 181,Description for video 181 covering educational content.,https://youtube.com/sample-video-181,10.5,Web Development,Intermediate
+Sample Video 182,Description for video 182 covering educational content.,https://youtube.com/sample-video-182,11.0,AI,Advanced
+Sample Video 183,Description for video 183 covering educational content.,https://youtube.com/sample-video-183,11.5,Cloud Computing,Basic
+Sample Video 184,Description for video 184 covering educational content.,https://youtube.com/sample-video-184,12.0,Blockchain,Intermediate
+Sample Video 185,Description for video 185 covering educational content.,https://youtube.com/sample-video-185,12.5,App Development,Advanced
+Sample Video 186,Description for video 186 covering educational content.,https://youtube.com/sample-video-186,13.0,Programming,Basic
+Sample Video 187,Description for video 187 covering educational content.,https://youtube.com/sample-video-187,13.5,Web Development,Intermediate
+Sample Video 188,Description for video 188 covering educational content.,https://youtube.com/sample-video-188,14.0,AI,Advanced
+Sample Video 189,Description for video 189 covering educational content.,https://youtube.com/sample-video-189,14.5,Cloud Computing,Basic
+Sample Video 190,Description for video 190 covering educational content.,https://youtube.com/sample-video-190,15.0,Blockchain,Intermediate
+Sample Video 191,Description for video 191 covering educational content.,https://youtube.com/sample-video-191,15.5,App Development,Advanced
+Sample Video 192,Description for video 192 covering educational content.,https://youtube.com/sample-video-192,16.0,Programming,Basic
+Sample Video 193,Description for video 193 covering educational content.,https://youtube.com/sample-video-193,16.5,Web Development,Intermediate
+Sample Video 194,Description for video 194 covering educational content.,https://youtube.com/sample-video-194,17.0,AI,Advanced
+Sample Video 195,Description for video 195 covering educational content.,https://youtube.com/sample-video-195,17.5,Cloud Computing,Basic
+Sample Video 196,Description for video 196 covering educational content.,https://youtube.com/sample-video-196,18.0,Blockchain,Intermediate
+Sample Video 197,Description for video 197 covering educational content.,https://youtube.com/sample-video-197,18.5,App Development,Advanced
+Sample Video 198,Description for video 198 covering educational content.,https://youtube.com/sample-video-198,19.0,Programming,Basic
+Sample Video 199,Description for video 199 covering educational content.,https://youtube.com/sample-video-199,19.5,Web Development,Intermediate
+Sample Video 200,Description for video 200 covering educational content.,https://youtube.com/sample-video-200,10.0,AI,Advanced

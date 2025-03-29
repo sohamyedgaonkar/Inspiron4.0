@@ -1,0 +1,61 @@
+Name,Description,Topics Covered,Subject,Difficulty
+Introduction to AI and Machine Learning,"Learn the basics of artificial intelligence and machine learning, including key concepts, applications, and history.","Introduction, History, Applications",AIML,Easy
+Linear Regression in Machine Learning,Understand linear regression and its applications in machine learning with examples and code walkthroughs.,"Linear Regression, Supervised Learning",AIML,Easy
+Supervised vs Unsupervised Learning,Explore the differences between supervised and unsupervised learning with real-world examples.,"Supervised Learning, Unsupervised Learning",AIML,Easy
+Neural Networks Explained,"Dive into the fundamentals of neural networks, their structure, and how they work.","Neural Networks, Deep Learning",AIML,Medium
+Building Your First AI Model,Step-by-step guide to building your first AI model using Python and TensorFlow.,"AI Models, TensorFlow",AIML,Medium
+Natural Language Processing Basics,"Introduction to natural language processing (NLP), covering text preprocessing and tokenization.","NLP, Text Processing",AIML,Medium
+Understanding Convolutional Neural Networks,Learn about CNNs and their applications in image processing and computer vision.,"CNNs, Computer Vision",AIML,Hard
+Hyperparameter Tuning in ML,Master the art of hyperparameter tuning to optimize machine learning models.,"Hyperparameter Tuning, Model Optimization",AIML,Hard
+Reinforcement Learning Basics,Get introduced to reinforcement learning and its applications in AI systems.,Reinforcement Learning,AIML,Hard
+Advanced Deep Learning Architectures,"Explore advanced architectures like GANs, transformers, and autoencoders.","GANs, Transformers, Autoencoders",AIML,Hard
+Ethics in AI,Discussion on the ethical challenges and considerations in AI development.,"Ethics, AI Development",AIML,Easy
+Future Trends in Machine Learning,Explore the latest trends and future directions in machine learning.,"Trends, Future of AI",AIML,Medium
+HTML Basics for Beginners,Learn the fundamental structure and tags of HTML for web development.,"HTML, Web Basics",Web Development,Easy
+CSS Styling Techniques,"Understand how to style web pages using CSS, including layout and colors.","CSS, Web Design",Web Development,Easy
+JavaScript Essentials,"Introduction to JavaScript programming, covering variables, functions, and loops.","JavaScript, Basics",Web Development,Easy
+Responsive Web Design,Learn how to create responsive websites that work on any device using CSS and media queries.,"Responsive Design, Media Queries",Web Development,Medium
+Introduction to React.js,"Learn the basics of React.js, a popular JavaScript library for building user interfaces.","React.js, UI Development",Web Development,Medium
+Building a Portfolio Website,Step-by-step guide to building a personal portfolio website from scratch.,"HTML, CSS, JavaScript",Web Development,Medium
+Web Performance Optimization,"Techniques to optimize web performance, including lazy loading and caching strategies.","Performance, Optimization",Web Development,Hard
+Advanced JavaScript: Promises and Async/Await,Deep dive into advanced JavaScript concepts like promises and async/await.,"JavaScript, Advanced Topics",Web Development,Hard
+Server-Side Rendering with Next.js,Learn server-side rendering techniques using Next.js for React applications.,"Next.js, Server-Side Rendering",Web Development,Hard
+Building Scalable Web Applications,Best practices for building scalable and maintainable web applications.,"Scalability, Web Architecture",Web Development,Hard
+Web Security Basics,"Introduction to web security concepts like HTTPS, CORS, and Content Security Policy.",Web Security,Web Development,Easy
+Deploying Websites on AWS,Step-by-step guide to deploying your website on AWS using S3 and CloudFront.,"AWS, Deployment",Web Development,Medium
+Introduction to Data Structures,"Learn the basics of data structures, including arrays, linked lists, and their applications.","Arrays, Linked Lists, Basics",Software (DSA),Easy
+Sorting Algorithms Simplified,"Understand sorting algorithms like bubble sort, selection sort, and insertion sort with examples.","Sorting Algorithms, Basics",Software (DSA),Easy
+Stacks and Queues,"Explore stacks and queues, their operations, and real-world use cases.","Stacks, Queues",Software (DSA),Easy
+Binary Search Tree (BST),"Dive into binary search trees, their structure, and how to perform search, insert, and delete operations.","BST, Tree Structures",Software (DSA),Medium
+Graph Basics and BFS/DFS,Learn graph representations and traverse graphs using BFS and DFS algorithms.,"Graphs, BFS, DFS",Software (DSA),Medium
+Dynamic Programming Introduction,Understand the principles of dynamic programming with examples like Fibonacci and knapsack problems.,Dynamic Programming,Software (DSA),Medium
+Heap Data Structure Explained,"Learn about heaps, their properties, and how they are used in priority queues.","Heaps, Priority Queues",Software (DSA),Hard
+Advanced Graph Algorithms,Explore advanced graph algorithms like Dijkstra's and Floyd-Warshall for shortest path problems.,"Graph Algorithms, Dijkstra's Algorithm",Software (DSA),Hard
+Segment Trees,"Learn about segment trees, their construction, and range query processing.","Segment Trees, Range Queries",Software (DSA),Hard
+Backtracking Explained,Understand backtracking techniques with examples like N-Queens and Sudoku solver.,Backtracking,Software (DSA),Hard
+Trie Data Structure,Explore the Trie data structure and its applications in string searching.,"Trie, String Processing",Software (DSA),Medium
+Top 10 DSA Interview Questions,Prepare for coding interviews with the top 10 frequently asked DSA questions.,"Interview Prep, DSA",Software (DSA),Easy
+Newton's Laws of Motion,Introduction to Newton's laws of motion with real-life examples and problem-solving.,"Newton's Laws, Basics",Physics,Easy
+Understanding Kinematics,"Learn the basics of kinematics, including equations of motion and graphical analysis.","Kinematics, Motion",Physics,Easy
+"Work, Energy, and Power","Explore the concepts of work, energy, and power with practical examples.","Work, Energy, Power",Physics,Easy
+Gravitation and Orbital Motion,Understand the laws of gravitation and orbital mechanics with applications.,"Gravitation, Orbital Motion",Physics,Medium
+Electrostatics Fundamentals,"Learn the basics of electrostatics, including Coulomb's law and electric fields.","Electrostatics, Electric Fields",Physics,Medium
+Magnetism and Electromagnetism,Explore the principles of magnetism and electromagnetic induction.,"Magnetism, Electromagnetism",Physics,Medium
+Thermodynamics Basics,"Introduction to thermodynamics, covering laws and their applications in real life.","Thermodynamics, Laws of Thermodynamics",Physics,Hard
+Quantum Mechanics Introduction,"Get started with quantum mechanics, including wave-particle duality and uncertainty principles.","Quantum Mechanics, Basics",Physics,Hard
+Relativity Theory Basics,Understand the fundamentals of Einstein's theory of relativity with thought experiments.,"Relativity, Einstein's Theories",Physics,Hard
+Optics and Light Waves,"Dive into the properties of light, reflection, refraction, and wave optics.","Optics, Light Waves",Physics,Hard
+Nuclear Physics Simplified,"Learn the basics of nuclear physics, including radioactivity and nuclear reactions.","Nuclear Physics, Radioactivity",Physics,Medium
+Physics of Everyday Phenomena,"Explore how physics explains everyday phenomena, from boiling water to rainbows.","Everyday Physics, Phenomena",Physics,Easy
+Algebra Basics for Beginners,"Learn the basics of algebra, including solving equations and simplifying expressions.","Algebra, Basics",Maths,Easy
+Understanding Trigonometry,"Introduction to trigonometric functions, identities, and applications.","Trigonometry, Basics",Maths,Easy
+Probability and Statistics,Explore the basics of probability and statistical analysis with examples.,"Probability, Statistics",Maths,Easy
+Linear Algebra Essentials,"Learn the core concepts of linear algebra, including matrices and vectors.","Linear Algebra, Matrices",Maths,Medium
+Calculus: Differentiation,Understand the fundamentals of differentiation and its applications.,"Calculus, Differentiation",Maths,Medium
+Integral Calculus Made Easy,Learn the basics of integral calculus with practical problem-solving techniques.,"Calculus, Integration",Maths,Medium
+Discrete Mathematics Overview,"Introduction to discrete math, covering sets, logic, and combinatorics.","Discrete Math, Sets, Logic",Maths,Hard
+Number Theory Fundamentals,"Explore the basics of number theory, including prime numbers and modular arithmetic.","Number Theory, Prime Numbers",Maths,Hard
+Advanced Probability Models,Learn advanced probability models and their applications in real-world scenarios.,"Probability, Advanced Models",Maths,Hard
+Complex Numbers and Applications,Understand complex numbers and their applications in mathematics and engineering.,"Complex Numbers, Applications",Maths,Hard
+Graph Theory Basics,"Learn the basics of graph theory, including types of graphs and traversal algorithms.","Graph Theory, Basics",Maths,Medium
+Math Tricks for Quick Calculations,Discover math tricks and shortcuts for performing quick calculations.,"Math Tricks, Calculations",Maths,Easy

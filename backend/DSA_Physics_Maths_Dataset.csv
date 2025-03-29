@@ -1,0 +1,37 @@
+Name,Description,Topics Covered,Subject,Difficulty
+Introduction to Data Structures,"Learn the basics of data structures, including arrays, linked lists, and their applications.","Arrays, Linked Lists, Basics",Software (DSA),Easy
+Sorting Algorithms Simplified,"Understand sorting algorithms like bubble sort, selection sort, and insertion sort with examples.","Sorting Algorithms, Basics",Software (DSA),Easy
+Stacks and Queues,"Explore stacks and queues, their operations, and real-world use cases.","Stacks, Queues",Software (DSA),Easy
+Binary Search Tree (BST),"Dive into binary search trees, their structure, and how to perform search, insert, and delete operations.","BST, Tree Structures",Software (DSA),Medium
+Graph Basics and BFS/DFS,Learn graph representations and traverse graphs using BFS and DFS algorithms.,"Graphs, BFS, DFS",Software (DSA),Medium
+Dynamic Programming Introduction,Understand the principles of dynamic programming with examples like Fibonacci and knapsack problems.,Dynamic Programming,Software (DSA),Medium
+Heap Data Structure Explained,"Learn about heaps, their properties, and how they are used in priority queues.","Heaps, Priority Queues",Software (DSA),Hard
+Advanced Graph Algorithms,Explore advanced graph algorithms like Dijkstra's and Floyd-Warshall for shortest path problems.,"Graph Algorithms, Dijkstra's Algorithm",Software (DSA),Hard
+Segment Trees,"Learn about segment trees, their construction, and range query processing.","Segment Trees, Range Queries",Software (DSA),Hard
+Backtracking Explained,Understand backtracking techniques with examples like N-Queens and Sudoku solver.,Backtracking,Software (DSA),Hard
+Trie Data Structure,Explore the Trie data structure and its applications in string searching.,"Trie, String Processing",Software (DSA),Medium
+Top 10 DSA Interview Questions,Prepare for coding interviews with the top 10 frequently asked DSA questions.,"Interview Prep, DSA",Software (DSA),Easy
+Newton's Laws of Motion,Introduction to Newton's laws of motion with real-life examples and problem-solving.,"Newton's Laws, Basics",Physics,Easy
+Understanding Kinematics,"Learn the basics of kinematics, including equations of motion and graphical analysis.","Kinematics, Motion",Physics,Easy
+"Work, Energy, and Power","Explore the concepts of work, energy, and power with practical examples.","Work, Energy, Power",Physics,Easy
+Gravitation and Orbital Motion,Understand the laws of gravitation and orbital mechanics with applications.,"Gravitation, Orbital Motion",Physics,Medium
+Electrostatics Fundamentals,"Learn the basics of electrostatics, including Coulomb's law and electric fields.","Electrostatics, Electric Fields",Physics,Medium
+Magnetism and Electromagnetism,Explore the principles of magnetism and electromagnetic induction.,"Magnetism, Electromagnetism",Physics,Medium
+Thermodynamics Basics,"Introduction to thermodynamics, covering laws and their applications in real life.","Thermodynamics, Laws of Thermodynamics",Physics,Hard
+Quantum Mechanics Introduction,"Get started with quantum mechanics, including wave-particle duality and uncertainty principles.","Quantum Mechanics, Basics",Physics,Hard
+Relativity Theory Basics,Understand the fundamentals of Einstein's theory of relativity with thought experiments.,"Relativity, Einstein's Theories",Physics,Hard
+Optics and Light Waves,"Dive into the properties of light, reflection, refraction, and wave optics.","Optics, Light Waves",Physics,Hard
+Nuclear Physics Simplified,"Learn the basics of nuclear physics, including radioactivity and nuclear reactions.","Nuclear Physics, Radioactivity",Physics,Medium
+Physics of Everyday Phenomena,"Explore how physics explains everyday phenomena, from boiling water to rainbows.","Everyday Physics, Phenomena",Physics,Easy
+Algebra Basics for Beginners,"Learn the basics of algebra, including solving equations and simplifying expressions.","Algebra, Basics",Maths,Easy
+Understanding Trigonometry,"Introduction to trigonometric functions, identities, and applications.","Trigonometry, Basics",Maths,Easy
+Probability and Statistics,Explore the basics of probability and statistical analysis with examples.,"Probability, Statistics",Maths,Easy
+Linear Algebra Essentials,"Learn the core concepts of linear algebra, including matrices and vectors.","Linear Algebra, Matrices",Maths,Medium
+Calculus: Differentiation,Understand the fundamentals of differentiation and its applications.,"Calculus, Differentiation",Maths,Medium
+Integral Calculus Made Easy,Learn the basics of integral calculus with practical problem-solving techniques.,"Calculus, Integration",Maths,Medium
+Discrete Mathematics Overview,"Introduction to discrete math, covering sets, logic, and combinatorics.","Discrete Math, Sets, Logic",Maths,Hard
+Number Theory Fundamentals,"Explore the basics of number theory, including prime numbers and modular arithmetic.","Number Theory, Prime Numbers",Maths,Hard
+Advanced Probability Models,Learn advanced probability models and their applications in real-world scenarios.,"Probability, Advanced Models",Maths,Hard
+Complex Numbers and Applications,Understand complex numbers and their applications in mathematics and engineering.,"Complex Numbers, Applications",Maths,Hard
+Graph Theory Basics,"Learn the basics of graph theory, including types of graphs and traversal algorithms.","Graph Theory, Basics",Maths,Medium
+Math Tricks for Quick Calculations,Discover math tricks and shortcuts for performing quick calculations.,"Math Tricks, Calculations",Maths,Easy

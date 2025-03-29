@@ -1,0 +1,201 @@
+Course Name,Subject,Topics Covered,Difficulty (0-1),Course Link
+Introduction to Data Science with Python,Data Science,"Python, Statistics, Machine Learning",0.74,https://example.com/introduction-to-data-science-with-python
+Web Development Bootcamp,Web Development,"HTML, CSS, JavaScript",0.46,https://example.com/web-development-bootcamp
+Illustrator for Graphic Designers,Graphic Design,"Adobe Photoshop, Illustrator",0.13,https://example.com/illustrator-for-graphic-designers
+Complete Digital Marketing Guide,Digital Marketing,"SEO, Google Ads, Content Marketing",0.77,https://example.com/complete-digital-marketing-guide
+Tableau Data Visualization,Business Analytics,"Excel, Tableau, Business Strategy",0.2,https://example.com/tableau-data-visualization
+Ethical Hacking Basics,Cybersecurity,"Network Security, Ethical Hacking",0.39,https://example.com/ethical-hacking-basics
+Flutter for Beginners,Mobile App Development,"Kotlin, Flutter, Android Studio",0.2,https://example.com/flutter-for-beginners
+Deep Learning with TensorFlow,AI & ML,"Deep Learning, Neural Networks",0.13,https://example.com/deep-learning-with-tensorflow
+Machine Learning Fundamentals,Data Science,"Python, Statistics, Machine Learning",0.3,https://example.com/machine-learning-fundamentals
+JavaScript for Beginners,Web Development,"HTML, CSS, JavaScript",0.37,https://example.com/javascript-for-beginners
+Graphic Design Masterclass,Graphic Design,"Adobe Photoshop, Illustrator",0.2,https://example.com/graphic-design-masterclass
+Complete Digital Marketing Guide,Digital Marketing,"SEO, Google Ads, Content Marketing",0.73,https://example.com/complete-digital-marketing-guide
+Tableau Data Visualization,Business Analytics,"Excel, Tableau, Business Strategy",0.33,https://example.com/tableau-data-visualization
+Introduction to Cybersecurity,Cybersecurity,"Network Security, Ethical Hacking",0.8,https://example.com/introduction-to-cybersecurity
+Mobile App Development with Kotlin,Mobile App Development,"Kotlin, Flutter, Android Studio",0.39,https://example.com/mobile-app-development-with-kotlin
+Neural Networks Explained,AI & ML,"Deep Learning, Neural Networks",0.47,https://example.com/neural-networks-explained
+Machine Learning Fundamentals,Data Science,"Python, Statistics, Machine Learning",0.33,https://example.com/machine-learning-fundamentals
+JavaScript for Beginners,Web Development,"HTML, CSS, JavaScript",0.85,https://example.com/javascript-for-beginners
+Adobe Photoshop Essentials,Graphic Design,"Adobe Photoshop, Illustrator",0.89,https://example.com/adobe-photoshop-essentials
+SEO Mastery Course,Digital Marketing,"SEO, Google Ads, Content Marketing",0.31,https://example.com/seo-mastery-course
+Tableau Data Visualization,Business Analytics,"Excel, Tableau, Business Strategy",0.31,https://example.com/tableau-data-visualization
+Introduction to Cybersecurity,Cybersecurity,"Network Security, Ethical Hacking",0.63,https://example.com/introduction-to-cybersecurity
+Flutter for Beginners,Mobile App Development,"Kotlin, Flutter, Android Studio",0.72,https://example.com/flutter-for-beginners
+Neural Networks Explained,AI & ML,"Deep Learning, Neural Networks",0.58,https://example.com/neural-networks-explained
+Introduction to Data Science with Python,Data Science,"Python, Statistics, Machine Learning",0.49,https://example.com/introduction-to-data-science-with-python
+Web Development Bootcamp,Web Development,"HTML, CSS, JavaScript",0.91,https://example.com/web-development-bootcamp
+Illustrator for Graphic Designers,Graphic Design,"Adobe Photoshop, Illustrator",0.58,https://example.com/illustrator-for-graphic-designers
+Content Marketing Strategies,Digital Marketing,"SEO, Google Ads, Content Marketing",0.97,https://example.com/content-marketing-strategies
+Business Strategy Essentials,Business Analytics,"Excel, Tableau, Business Strategy",0.31,https://example.com/business-strategy-essentials
+Network Security Essentials,Cybersecurity,"Network Security, Ethical Hacking",0.47,https://example.com/network-security-essentials
+Android Studio Mastery,Mobile App Development,"Kotlin, Flutter, Android Studio",0.11,https://example.com/android-studio-mastery
+AI for Everyone,AI & ML,"Deep Learning, Neural Networks",0.28,https://example.com/ai-for-everyone
+Statistics for Data Science and Analytics,Data Science,"Python, Statistics, Machine Learning",0.99,https://example.com/statistics-for-data-science-and-analytics
+JavaScript for Beginners,Web Development,"HTML, CSS, JavaScript",0.48,https://example.com/javascript-for-beginners
+Adobe Photoshop Essentials,Graphic Design,"Adobe Photoshop, Illustrator",0.52,https://example.com/adobe-photoshop-essentials
+Complete Digital Marketing Guide,Digital Marketing,"SEO, Google Ads, Content Marketing",0.26,https://example.com/complete-digital-marketing-guide
+Tableau Data Visualization,Business Analytics,"Excel, Tableau, Business Strategy",0.23,https://example.com/tableau-data-visualization
+Ethical Hacking Basics,Cybersecurity,"Network Security, Ethical Hacking",0.97,https://example.com/ethical-hacking-basics
+Flutter for Beginners,Mobile App Development,"Kotlin, Flutter, Android Studio",0.42,https://example.com/flutter-for-beginners
+AI for Everyone,AI & ML,"Deep Learning, Neural Networks",0.92,https://example.com/ai-for-everyone
+Introduction to Data Science with Python,Data Science,"Python, Statistics, Machine Learning",0.82,https://example.com/introduction-to-data-science-with-python
+JavaScript for Beginners,Web Development,"HTML, CSS, JavaScript",0.19,https://example.com/javascript-for-beginners
+Illustrator for Graphic Designers,Graphic Design,"Adobe Photoshop, Illustrator",0.97,https://example.com/illustrator-for-graphic-designers
+Complete Digital Marketing Guide,Digital Marketing,"SEO, Google Ads, Content Marketing",0.17,https://example.com/complete-digital-marketing-guide
+Excel for Business Analytics,Business Analytics,"Excel, Tableau, Business Strategy",0.91,https://example.com/excel-for-business-analytics
+Ethical Hacking Basics,Cybersecurity,"Network Security, Ethical Hacking",0.88,https://example.com/ethical-hacking-basics
+Android Studio Mastery,Mobile App Development,"Kotlin, Flutter, Android Studio",0.59,https://example.com/android-studio-mastery
+Deep Learning with TensorFlow,AI & ML,"Deep Learning, Neural Networks",0.9,https://example.com/deep-learning-with-tensorflow
+Introduction to Data Science with Python,Data Science,"Python, Statistics, Machine Learning",0.82,https://example.com/introduction-to-data-science-with-python
+Web Development Bootcamp,Web Development,"HTML, CSS, JavaScript",0.99,https://example.com/web-development-bootcamp
+Illustrator for Graphic Designers,Graphic Design,"Adobe Photoshop, Illustrator",0.49,https://example.com/illustrator-for-graphic-designers
+Complete Digital Marketing Guide,Digital Marketing,"SEO, Google Ads, Content Marketing",0.78,https://example.com/complete-digital-marketing-guide
+Excel for Business Analytics,Business Analytics,"Excel, Tableau, Business Strategy",0.9,https://example.com/excel-for-business-analytics
+Network Security Essentials,Cybersecurity,"Network Security, Ethical Hacking",0.32,https://example.com/network-security-essentials
+Android Studio Mastery,Mobile App Development,"Kotlin, Flutter, Android Studio",0.37,https://example.com/android-studio-mastery
+Neural Networks Explained,AI & ML,"Deep Learning, Neural Networks",0.84,https://example.com/neural-networks-explained
+Introduction to Data Science with Python,Data Science,"Python, Statistics, Machine Learning",0.15,https://example.com/introduction-to-data-science-with-python
+Web Development Bootcamp,Web Development,"HTML, CSS, JavaScript",0.15,https://example.com/web-development-bootcamp
+Graphic Design Masterclass,Graphic Design,"Adobe Photoshop, Illustrator",0.74,https://example.com/graphic-design-masterclass
+Content Marketing Strategies,Digital Marketing,"SEO, Google Ads, Content Marketing",0.52,https://example.com/content-marketing-strategies
+Tableau Data Visualization,Business Analytics,"Excel, Tableau, Business Strategy",0.24,https://example.com/tableau-data-visualization
+Introduction to Cybersecurity,Cybersecurity,"Network Security, Ethical Hacking",0.33,https://example.com/introduction-to-cybersecurity
+Flutter for Beginners,Mobile App Development,"Kotlin, Flutter, Android Studio",0.77,https://example.com/flutter-for-beginners
+Deep Learning with TensorFlow,AI & ML,"Deep Learning, Neural Networks",0.17,https://example.com/deep-learning-with-tensorflow
+Statistics for Data Science and Analytics,Data Science,"Python, Statistics, Machine Learning",0.33,https://example.com/statistics-for-data-science-and-analytics
+Mastering HTML and CSS,Web Development,"HTML, CSS, JavaScript",0.25,https://example.com/mastering-html-and-css
+Graphic Design Masterclass,Graphic Design,"Adobe Photoshop, Illustrator",0.19,https://example.com/graphic-design-masterclass
+Complete Digital Marketing Guide,Digital Marketing,"SEO, Google Ads, Content Marketing",0.89,https://example.com/complete-digital-marketing-guide
+Business Strategy Essentials,Business Analytics,"Excel, Tableau, Business Strategy",0.68,https://example.com/business-strategy-essentials
+Introduction to Cybersecurity,Cybersecurity,"Network Security, Ethical Hacking",0.13,https://example.com/introduction-to-cybersecurity
+Mobile App Development with Kotlin,Mobile App Development,"Kotlin, Flutter, Android Studio",0.91,https://example.com/mobile-app-development-with-kotlin
+AI for Everyone,AI & ML,"Deep Learning, Neural Networks",0.73,https://example.com/ai-for-everyone
+Introduction to Data Science with Python,Data Science,"Python, Statistics, Machine Learning",1.0,https://example.com/introduction-to-data-science-with-python
+Web Development Bootcamp,Web Development,"HTML, CSS, JavaScript",0.71,https://example.com/web-development-bootcamp
+Illustrator for Graphic Designers,Graphic Design,"Adobe Photoshop, Illustrator",0.88,https://example.com/illustrator-for-graphic-designers
+Complete Digital Marketing Guide,Digital Marketing,"SEO, Google Ads, Content Marketing",0.27,https://example.com/complete-digital-marketing-guide
+Tableau Data Visualization,Business Analytics,"Excel, Tableau, Business Strategy",0.55,https://example.com/tableau-data-visualization
+Introduction to Cybersecurity,Cybersecurity,"Network Security, Ethical Hacking",0.16,https://example.com/introduction-to-cybersecurity
+Android Studio Mastery,Mobile App Development,"Kotlin, Flutter, Android Studio",0.26,https://example.com/android-studio-mastery
+Deep Learning with TensorFlow,AI & ML,"Deep Learning, Neural Networks",0.77,https://example.com/deep-learning-with-tensorflow
+Statistics for Data Science and Analytics,Data Science,"Python, Statistics, Machine Learning",0.41,https://example.com/statistics-for-data-science-and-analytics
+Mastering HTML and CSS,Web Development,"HTML, CSS, JavaScript",0.14,https://example.com/mastering-html-and-css
+Adobe Photoshop Essentials,Graphic Design,"Adobe Photoshop, Illustrator",0.11,https://example.com/adobe-photoshop-essentials
+Complete Digital Marketing Guide,Digital Marketing,"SEO, Google Ads, Content Marketing",0.15,https://example.com/complete-digital-marketing-guide
+Excel for Business Analytics,Business Analytics,"Excel, Tableau, Business Strategy",0.31,https://example.com/excel-for-business-analytics
+Ethical Hacking Basics,Cybersecurity,"Network Security, Ethical Hacking",0.57,https://example.com/ethical-hacking-basics
+Flutter for Beginners,Mobile App Development,"Kotlin, Flutter, Android Studio",0.17,https://example.com/flutter-for-beginners
+AI for Everyone,AI & ML,"Deep Learning, Neural Networks",0.3,https://example.com/ai-for-everyone
+Machine Learning Fundamentals,Data Science,"Python, Statistics, Machine Learning",0.57,https://example.com/machine-learning-fundamentals
+Mastering HTML and CSS,Web Development,"HTML, CSS, JavaScript",0.13,https://example.com/mastering-html-and-css
+Graphic Design Masterclass,Graphic Design,"Adobe Photoshop, Illustrator",0.51,https://example.com/graphic-design-masterclass
+Content Marketing Strategies,Digital Marketing,"SEO, Google Ads, Content Marketing",0.63,https://example.com/content-marketing-strategies
+Tableau Data Visualization,Business Analytics,"Excel, Tableau, Business Strategy",0.13,https://example.com/tableau-data-visualization
+Network Security Essentials,Cybersecurity,"Network Security, Ethical Hacking",0.69,https://example.com/network-security-essentials
+Flutter for Beginners,Mobile App Development,"Kotlin, Flutter, Android Studio",0.86,https://example.com/flutter-for-beginners
+Neural Networks Explained,AI & ML,"Deep Learning, Neural Networks",0.24,https://example.com/neural-networks-explained
+Introduction to Data Science with Python,Data Science,"Python, Statistics, Machine Learning",0.51,https://example.com/introduction-to-data-science-with-python
+Mastering HTML and CSS,Web Development,"HTML, CSS, JavaScript",0.9,https://example.com/mastering-html-and-css
+Illustrator for Graphic Designers,Graphic Design,"Adobe Photoshop, Illustrator",0.95,https://example.com/illustrator-for-graphic-designers
+Complete Digital Marketing Guide,Digital Marketing,"SEO, Google Ads, Content Marketing",0.84,https://example.com/complete-digital-marketing-guide
+Tableau Data Visualization,Business Analytics,"Excel, Tableau, Business Strategy",0.88,https://example.com/tableau-data-visualization
+Ethical Hacking Basics,Cybersecurity,"Network Security, Ethical Hacking",0.73,https://example.com/ethical-hacking-basics
+Mobile App Development with Kotlin,Mobile App Development,"Kotlin, Flutter, Android Studio",0.35,https://example.com/mobile-app-development-with-kotlin
+AI for Everyone,AI & ML,"Deep Learning, Neural Networks",0.55,https://example.com/ai-for-everyone
+Statistics for Data Science and Analytics,Data Science,"Python, Statistics, Machine Learning",0.75,https://example.com/statistics-for-data-science-and-analytics
+Mastering HTML and CSS,Web Development,"HTML, CSS, JavaScript",0.11,https://example.com/mastering-html-and-css
+Illustrator for Graphic Designers,Graphic Design,"Adobe Photoshop, Illustrator",0.57,https://example.com/illustrator-for-graphic-designers
+SEO Mastery Course,Digital Marketing,"SEO, Google Ads, Content Marketing",0.45,https://example.com/seo-mastery-course
+Tableau Data Visualization,Business Analytics,"Excel, Tableau, Business Strategy",0.43,https://example.com/tableau-data-visualization
+Introduction to Cybersecurity,Cybersecurity,"Network Security, Ethical Hacking",0.51,https://example.com/introduction-to-cybersecurity
+Android Studio Mastery,Mobile App Development,"Kotlin, Flutter, Android Studio",0.25,https://example.com/android-studio-mastery
+Deep Learning with TensorFlow,AI & ML,"Deep Learning, Neural Networks",0.36,https://example.com/deep-learning-with-tensorflow
+Introduction to Data Science with Python,Data Science,"Python, Statistics, Machine Learning",0.76,https://example.com/introduction-to-data-science-with-python
+Mastering HTML and CSS,Web Development,"HTML, CSS, JavaScript",0.82,https://example.com/mastering-html-and-css
+Adobe Photoshop Essentials,Graphic Design,"Adobe Photoshop, Illustrator",0.97,https://example.com/adobe-photoshop-essentials
+SEO Mastery Course,Digital Marketing,"SEO, Google Ads, Content Marketing",0.66,https://example.com/seo-mastery-course
+Tableau Data Visualization,Business Analytics,"Excel, Tableau, Business Strategy",0.55,https://example.com/tableau-data-visualization
+Ethical Hacking Basics,Cybersecurity,"Network Security, Ethical Hacking",0.93,https://example.com/ethical-hacking-basics
+Android Studio Mastery,Mobile App Development,"Kotlin, Flutter, Android Studio",0.96,https://example.com/android-studio-mastery
+Deep Learning with TensorFlow,AI & ML,"Deep Learning, Neural Networks",0.94,https://example.com/deep-learning-with-tensorflow
+Introduction to Data Science with Python,Data Science,"Python, Statistics, Machine Learning",0.25,https://example.com/introduction-to-data-science-with-python
+JavaScript for Beginners,Web Development,"HTML, CSS, JavaScript",0.23,https://example.com/javascript-for-beginners
+Adobe Photoshop Essentials,Graphic Design,"Adobe Photoshop, Illustrator",0.5,https://example.com/adobe-photoshop-essentials
+Content Marketing Strategies,Digital Marketing,"SEO, Google Ads, Content Marketing",0.11,https://example.com/content-marketing-strategies
+Excel for Business Analytics,Business Analytics,"Excel, Tableau, Business Strategy",0.47,https://example.com/excel-for-business-analytics
+Network Security Essentials,Cybersecurity,"Network Security, Ethical Hacking",0.91,https://example.com/network-security-essentials
+Android Studio Mastery,Mobile App Development,"Kotlin, Flutter, Android Studio",0.57,https://example.com/android-studio-mastery
+Deep Learning with TensorFlow,AI & ML,"Deep Learning, Neural Networks",0.71,https://example.com/deep-learning-with-tensorflow
+Machine Learning Fundamentals,Data Science,"Python, Statistics, Machine Learning",0.83,https://example.com/machine-learning-fundamentals
+Web Development Bootcamp,Web Development,"HTML, CSS, JavaScript",0.16,https://example.com/web-development-bootcamp
+Illustrator for Graphic Designers,Graphic Design,"Adobe Photoshop, Illustrator",0.94,https://example.com/illustrator-for-graphic-designers
+Content Marketing Strategies,Digital Marketing,"SEO, Google Ads, Content Marketing",0.46,https://example.com/content-marketing-strategies
+Excel for Business Analytics,Business Analytics,"Excel, Tableau, Business Strategy",0.73,https://example.com/excel-for-business-analytics
+Network Security Essentials,Cybersecurity,"Network Security, Ethical Hacking",0.16,https://example.com/network-security-essentials
+Flutter for Beginners,Mobile App Development,"Kotlin, Flutter, Android Studio",0.12,https://example.com/flutter-for-beginners
+AI for Everyone,AI & ML,"Deep Learning, Neural Networks",0.69,https://example.com/ai-for-everyone
+Introduction to Data Science with Python,Data Science,"Python, Statistics, Machine Learning",0.23,https://example.com/introduction-to-data-science-with-python
+JavaScript for Beginners,Web Development,"HTML, CSS, JavaScript",0.93,https://example.com/javascript-for-beginners
+Illustrator for Graphic Designers,Graphic Design,"Adobe Photoshop, Illustrator",0.83,https://example.com/illustrator-for-graphic-designers
+Content Marketing Strategies,Digital Marketing,"SEO, Google Ads, Content Marketing",0.5,https://example.com/content-marketing-strategies
+Tableau Data Visualization,Business Analytics,"Excel, Tableau, Business Strategy",0.15,https://example.com/tableau-data-visualization
+Introduction to Cybersecurity,Cybersecurity,"Network Security, Ethical Hacking",0.95,https://example.com/introduction-to-cybersecurity
+Flutter for Beginners,Mobile App Development,"Kotlin, Flutter, Android Studio",0.98,https://example.com/flutter-for-beginners
+Deep Learning with TensorFlow,AI & ML,"Deep Learning, Neural Networks",0.96,https://example.com/deep-learning-with-tensorflow
+Statistics for Data Science and Analytics,Data Science,"Python, Statistics, Machine Learning",0.54,https://example.com/statistics-for-data-science-and-analytics
+JavaScript for Beginners,Web Development,"HTML, CSS, JavaScript",0.7,https://example.com/javascript-for-beginners
+Adobe Photoshop Essentials,Graphic Design,"Adobe Photoshop, Illustrator",0.76,https://example.com/adobe-photoshop-essentials
+SEO Mastery Course,Digital Marketing,"SEO, Google Ads, Content Marketing",0.48,https://example.com/seo-mastery-course
+Business Strategy Essentials,Business Analytics,"Excel, Tableau, Business Strategy",0.49,https://example.com/business-strategy-essentials
+Ethical Hacking Basics,Cybersecurity,"Network Security, Ethical Hacking",0.31,https://example.com/ethical-hacking-basics
+Android Studio Mastery,Mobile App Development,"Kotlin, Flutter, Android Studio",0.94,https://example.com/android-studio-mastery
+Deep Learning with TensorFlow,AI & ML,"Deep Learning, Neural Networks",0.33,https://example.com/deep-learning-with-tensorflow
+Introduction to Data Science with Python,Data Science,"Python, Statistics, Machine Learning",0.47,https://example.com/introduction-to-data-science-with-python
+Web Development Bootcamp,Web Development,"HTML, CSS, JavaScript",0.34,https://example.com/web-development-bootcamp
+Adobe Photoshop Essentials,Graphic Design,"Adobe Photoshop, Illustrator",0.18,https://example.com/adobe-photoshop-essentials
+SEO Mastery Course,Digital Marketing,"SEO, Google Ads, Content Marketing",0.16,https://example.com/seo-mastery-course
+Excel for Business Analytics,Business Analytics,"Excel, Tableau, Business Strategy",0.95,https://example.com/excel-for-business-analytics
+Introduction to Cybersecurity,Cybersecurity,"Network Security, Ethical Hacking",0.45,https://example.com/introduction-to-cybersecurity
+Flutter for Beginners,Mobile App Development,"Kotlin, Flutter, Android Studio",0.68,https://example.com/flutter-for-beginners
+AI for Everyone,AI & ML,"Deep Learning, Neural Networks",0.41,https://example.com/ai-for-everyone
+Machine Learning Fundamentals,Data Science,"Python, Statistics, Machine Learning",0.68,https://example.com/machine-learning-fundamentals
+JavaScript for Beginners,Web Development,"HTML, CSS, JavaScript",0.75,https://example.com/javascript-for-beginners
+Graphic Design Masterclass,Graphic Design,"Adobe Photoshop, Illustrator",0.48,https://example.com/graphic-design-masterclass
+SEO Mastery Course,Digital Marketing,"SEO, Google Ads, Content Marketing",0.39,https://example.com/seo-mastery-course
+Tableau Data Visualization,Business Analytics,"Excel, Tableau, Business Strategy",0.68,https://example.com/tableau-data-visualization
+Ethical Hacking Basics,Cybersecurity,"Network Security, Ethical Hacking",0.73,https://example.com/ethical-hacking-basics
+Flutter for Beginners,Mobile App Development,"Kotlin, Flutter, Android Studio",0.12,https://example.com/flutter-for-beginners
+Deep Learning with TensorFlow,AI & ML,"Deep Learning, Neural Networks",0.32,https://example.com/deep-learning-with-tensorflow
+Statistics for Data Science and Analytics,Data Science,"Python, Statistics, Machine Learning",0.27,https://example.com/statistics-for-data-science-and-analytics
+Mastering HTML and CSS,Web Development,"HTML, CSS, JavaScript",0.51,https://example.com/mastering-html-and-css
+Graphic Design Masterclass,Graphic Design,"Adobe Photoshop, Illustrator",0.45,https://example.com/graphic-design-masterclass
+SEO Mastery Course,Digital Marketing,"SEO, Google Ads, Content Marketing",0.91,https://example.com/seo-mastery-course
+Tableau Data Visualization,Business Analytics,"Excel, Tableau, Business Strategy",0.8,https://example.com/tableau-data-visualization
+Introduction to Cybersecurity,Cybersecurity,"Network Security, Ethical Hacking",0.84,https://example.com/introduction-to-cybersecurity
+Mobile App Development with Kotlin,Mobile App Development,"Kotlin, Flutter, Android Studio",0.44,https://example.com/mobile-app-development-with-kotlin
+Neural Networks Explained,AI & ML,"Deep Learning, Neural Networks",0.18,https://example.com/neural-networks-explained
+Introduction to Data Science with Python,Data Science,"Python, Statistics, Machine Learning",0.77,https://example.com/introduction-to-data-science-with-python
+Web Development Bootcamp,Web Development,"HTML, CSS, JavaScript",0.77,https://example.com/web-development-bootcamp
+Illustrator for Graphic Designers,Graphic Design,"Adobe Photoshop, Illustrator",0.28,https://example.com/illustrator-for-graphic-designers
+SEO Mastery Course,Digital Marketing,"SEO, Google Ads, Content Marketing",0.22,https://example.com/seo-mastery-course
+Tableau Data Visualization,Business Analytics,"Excel, Tableau, Business Strategy",0.83,https://example.com/tableau-data-visualization
+Network Security Essentials,Cybersecurity,"Network Security, Ethical Hacking",0.33,https://example.com/network-security-essentials
+Flutter for Beginners,Mobile App Development,"Kotlin, Flutter, Android Studio",0.13,https://example.com/flutter-for-beginners
+AI for Everyone,AI & ML,"Deep Learning, Neural Networks",0.15,https://example.com/ai-for-everyone
+Introduction to Data Science with Python,Data Science,"Python, Statistics, Machine Learning",0.85,https://example.com/introduction-to-data-science-with-python
+Web Development Bootcamp,Web Development,"HTML, CSS, JavaScript",0.57,https://example.com/web-development-bootcamp
+Adobe Photoshop Essentials,Graphic Design,"Adobe Photoshop, Illustrator",0.62,https://example.com/adobe-photoshop-essentials
+Complete Digital Marketing Guide,Digital Marketing,"SEO, Google Ads, Content Marketing",0.87,https://example.com/complete-digital-marketing-guide
+Excel for Business Analytics,Business Analytics,"Excel, Tableau, Business Strategy",0.75,https://example.com/excel-for-business-analytics
+Network Security Essentials,Cybersecurity,"Network Security, Ethical Hacking",0.85,https://example.com/network-security-essentials
+Mobile App Development with Kotlin,Mobile App Development,"Kotlin, Flutter, Android Studio",0.98,https://example.com/mobile-app-development-with-kotlin
+AI for Everyone,AI & ML,"Deep Learning, Neural Networks",0.66,https://example.com/ai-for-everyone
+Introduction to Data Science with Python,Data Science,"Python, Statistics, Machine Learning",0.1,https://example.com/introduction-to-data-science-with-python
+Mastering HTML and CSS,Web Development,"HTML, CSS, JavaScript",0.96,https://example.com/mastering-html-and-css
+Graphic Design Masterclass,Graphic Design,"Adobe Photoshop, Illustrator",0.68,https://example.com/graphic-design-masterclass
+SEO Mastery Course,Digital Marketing,"SEO, Google Ads, Content Marketing",0.85,https://example.com/seo-mastery-course
+Tableau Data Visualization,Business Analytics,"Excel, Tableau, Business Strategy",0.39,https://example.com/tableau-data-visualization
+Network Security Essentials,Cybersecurity,"Network Security, Ethical Hacking",0.97,https://example.com/network-security-essentials
+Flutter for Beginners,Mobile App Development,"Kotlin, Flutter, Android Studio",0.26,https://example.com/flutter-for-beginners
+AI for Everyone,AI & ML,"Deep Learning, Neural Networks",0.98,https://example.com/ai-for-everyone

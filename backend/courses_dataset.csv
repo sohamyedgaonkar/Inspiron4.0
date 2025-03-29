@@ -1,0 +1,201 @@
+Course Name,Subject,Topics Covered,Difficulty (0-1),Course Link
+Course 1,Data Science,"Python, Statistics, Machine Learning",0.01,https://example.com/course-1
+Course 2,Web Development,"HTML, CSS, JavaScript",0.01,https://example.com/course-2
+Course 3,Graphic Design,"Adobe Photoshop, Illustrator",0.01,https://example.com/course-3
+Course 4,Digital Marketing,"SEO, Google Ads, Content Marketing",0.02,https://example.com/course-4
+Course 5,Business Analytics,"Excel, Tableau, Business Strategy",0.03,https://example.com/course-5
+Course 6,Cybersecurity,"Network Security, Ethical Hacking",0.03,https://example.com/course-6
+Course 7,Mobile App Development,"Kotlin, Flutter, Android Studio",0.04,https://example.com/course-7
+Course 8,AI & ML,"Deep Learning, Neural Networks",0.04,https://example.com/course-8
+Course 9,Data Science,"Python, Statistics, Machine Learning",0.04,https://example.com/course-9
+Course 10,Web Development,"HTML, CSS, JavaScript",0.05,https://example.com/course-10
+Course 11,Graphic Design,"Adobe Photoshop, Illustrator",0.06,https://example.com/course-11
+Course 12,Digital Marketing,"SEO, Google Ads, Content Marketing",0.06,https://example.com/course-12
+Course 13,Business Analytics,"Excel, Tableau, Business Strategy",0.07,https://example.com/course-13
+Course 14,Cybersecurity,"Network Security, Ethical Hacking",0.07,https://example.com/course-14
+Course 15,Mobile App Development,"Kotlin, Flutter, Android Studio",0.07,https://example.com/course-15
+Course 16,AI & ML,"Deep Learning, Neural Networks",0.08,https://example.com/course-16
+Course 17,Data Science,"Python, Statistics, Machine Learning",0.09,https://example.com/course-17
+Course 18,Web Development,"HTML, CSS, JavaScript",0.09,https://example.com/course-18
+Course 19,Graphic Design,"Adobe Photoshop, Illustrator",0.1,https://example.com/course-19
+Course 20,Digital Marketing,"SEO, Google Ads, Content Marketing",0.1,https://example.com/course-20
+Course 21,Business Analytics,"Excel, Tableau, Business Strategy",0.1,https://example.com/course-21
+Course 22,Cybersecurity,"Network Security, Ethical Hacking",0.11,https://example.com/course-22
+Course 23,Mobile App Development,"Kotlin, Flutter, Android Studio",0.12,https://example.com/course-23
+Course 24,AI & ML,"Deep Learning, Neural Networks",0.12,https://example.com/course-24
+Course 25,Data Science,"Python, Statistics, Machine Learning",0.12,https://example.com/course-25
+Course 26,Web Development,"HTML, CSS, JavaScript",0.13,https://example.com/course-26
+Course 27,Graphic Design,"Adobe Photoshop, Illustrator",0.14,https://example.com/course-27
+Course 28,Digital Marketing,"SEO, Google Ads, Content Marketing",0.14,https://example.com/course-28
+Course 29,Business Analytics,"Excel, Tableau, Business Strategy",0.14,https://example.com/course-29
+Course 30,Cybersecurity,"Network Security, Ethical Hacking",0.15,https://example.com/course-30
+Course 31,Mobile App Development,"Kotlin, Flutter, Android Studio",0.15,https://example.com/course-31
+Course 32,AI & ML,"Deep Learning, Neural Networks",0.16,https://example.com/course-32
+Course 33,Data Science,"Python, Statistics, Machine Learning",0.17,https://example.com/course-33
+Course 34,Web Development,"HTML, CSS, JavaScript",0.17,https://example.com/course-34
+Course 35,Graphic Design,"Adobe Photoshop, Illustrator",0.17,https://example.com/course-35
+Course 36,Digital Marketing,"SEO, Google Ads, Content Marketing",0.18,https://example.com/course-36
+Course 37,Business Analytics,"Excel, Tableau, Business Strategy",0.18,https://example.com/course-37
+Course 38,Cybersecurity,"Network Security, Ethical Hacking",0.19,https://example.com/course-38
+Course 39,Mobile App Development,"Kotlin, Flutter, Android Studio",0.2,https://example.com/course-39
+Course 40,AI & ML,"Deep Learning, Neural Networks",0.2,https://example.com/course-40
+Course 41,Data Science,"Python, Statistics, Machine Learning",0.2,https://example.com/course-41
+Course 42,Web Development,"HTML, CSS, JavaScript",0.21,https://example.com/course-42
+Course 43,Graphic Design,"Adobe Photoshop, Illustrator",0.21,https://example.com/course-43
+Course 44,Digital Marketing,"SEO, Google Ads, Content Marketing",0.22,https://example.com/course-44
+Course 45,Business Analytics,"Excel, Tableau, Business Strategy",0.23,https://example.com/course-45
+Course 46,Cybersecurity,"Network Security, Ethical Hacking",0.23,https://example.com/course-46
+Course 47,Mobile App Development,"Kotlin, Flutter, Android Studio",0.23,https://example.com/course-47
+Course 48,AI & ML,"Deep Learning, Neural Networks",0.24,https://example.com/course-48
+Course 49,Data Science,"Python, Statistics, Machine Learning",0.24,https://example.com/course-49
+Course 50,Web Development,"HTML, CSS, JavaScript",0.25,https://example.com/course-50
+Course 51,Graphic Design,"Adobe Photoshop, Illustrator",0.26,https://example.com/course-51
+Course 52,Digital Marketing,"SEO, Google Ads, Content Marketing",0.26,https://example.com/course-52
+Course 53,Business Analytics,"Excel, Tableau, Business Strategy",0.27,https://example.com/course-53
+Course 54,Cybersecurity,"Network Security, Ethical Hacking",0.27,https://example.com/course-54
+Course 55,Mobile App Development,"Kotlin, Flutter, Android Studio",0.28,https://example.com/course-55
+Course 56,AI & ML,"Deep Learning, Neural Networks",0.28,https://example.com/course-56
+Course 57,Data Science,"Python, Statistics, Machine Learning",0.28,https://example.com/course-57
+Course 58,Web Development,"HTML, CSS, JavaScript",0.29,https://example.com/course-58
+Course 59,Graphic Design,"Adobe Photoshop, Illustrator",0.29,https://example.com/course-59
+Course 60,Digital Marketing,"SEO, Google Ads, Content Marketing",0.3,https://example.com/course-60
+Course 61,Business Analytics,"Excel, Tableau, Business Strategy",0.3,https://example.com/course-61
+Course 62,Cybersecurity,"Network Security, Ethical Hacking",0.31,https://example.com/course-62
+Course 63,Mobile App Development,"Kotlin, Flutter, Android Studio",0.32,https://example.com/course-63
+Course 64,AI & ML,"Deep Learning, Neural Networks",0.32,https://example.com/course-64
+Course 65,Data Science,"Python, Statistics, Machine Learning",0.33,https://example.com/course-65
+Course 66,Web Development,"HTML, CSS, JavaScript",0.33,https://example.com/course-66
+Course 67,Graphic Design,"Adobe Photoshop, Illustrator",0.34,https://example.com/course-67
+Course 68,Digital Marketing,"SEO, Google Ads, Content Marketing",0.34,https://example.com/course-68
+Course 69,Business Analytics,"Excel, Tableau, Business Strategy",0.34,https://example.com/course-69
+Course 70,Cybersecurity,"Network Security, Ethical Hacking",0.35,https://example.com/course-70
+Course 71,Mobile App Development,"Kotlin, Flutter, Android Studio",0.35,https://example.com/course-71
+Course 72,AI & ML,"Deep Learning, Neural Networks",0.36,https://example.com/course-72
+Course 73,Data Science,"Python, Statistics, Machine Learning",0.36,https://example.com/course-73
+Course 74,Web Development,"HTML, CSS, JavaScript",0.37,https://example.com/course-74
+Course 75,Graphic Design,"Adobe Photoshop, Illustrator",0.38,https://example.com/course-75
+Course 76,Digital Marketing,"SEO, Google Ads, Content Marketing",0.38,https://example.com/course-76
+Course 77,Business Analytics,"Excel, Tableau, Business Strategy",0.39,https://example.com/course-77
+Course 78,Cybersecurity,"Network Security, Ethical Hacking",0.39,https://example.com/course-78
+Course 79,Mobile App Development,"Kotlin, Flutter, Android Studio",0.4,https://example.com/course-79
+Course 80,AI & ML,"Deep Learning, Neural Networks",0.4,https://example.com/course-80
+Course 81,Data Science,"Python, Statistics, Machine Learning",0.41,https://example.com/course-81
+Course 82,Web Development,"HTML, CSS, JavaScript",0.41,https://example.com/course-82
+Course 83,Graphic Design,"Adobe Photoshop, Illustrator",0.41,https://example.com/course-83
+Course 84,Digital Marketing,"SEO, Google Ads, Content Marketing",0.42,https://example.com/course-84
+Course 85,Business Analytics,"Excel, Tableau, Business Strategy",0.42,https://example.com/course-85
+Course 86,Cybersecurity,"Network Security, Ethical Hacking",0.43,https://example.com/course-86
+Course 87,Mobile App Development,"Kotlin, Flutter, Android Studio",0.43,https://example.com/course-87
+Course 88,AI & ML,"Deep Learning, Neural Networks",0.44,https://example.com/course-88
+Course 89,Data Science,"Python, Statistics, Machine Learning",0.45,https://example.com/course-89
+Course 90,Web Development,"HTML, CSS, JavaScript",0.45,https://example.com/course-90
+Course 91,Graphic Design,"Adobe Photoshop, Illustrator",0.46,https://example.com/course-91
+Course 92,Digital Marketing,"SEO, Google Ads, Content Marketing",0.46,https://example.com/course-92
+Course 93,Business Analytics,"Excel, Tableau, Business Strategy",0.47,https://example.com/course-93
+Course 94,Cybersecurity,"Network Security, Ethical Hacking",0.47,https://example.com/course-94
+Course 95,Mobile App Development,"Kotlin, Flutter, Android Studio",0.47,https://example.com/course-95
+Course 96,AI & ML,"Deep Learning, Neural Networks",0.48,https://example.com/course-96
+Course 97,Data Science,"Python, Statistics, Machine Learning",0.48,https://example.com/course-97
+Course 98,Web Development,"HTML, CSS, JavaScript",0.49,https://example.com/course-98
+Course 99,Graphic Design,"Adobe Photoshop, Illustrator",0.49,https://example.com/course-99
+Course 100,Digital Marketing,"SEO, Google Ads, Content Marketing",0.5,https://example.com/course-100
+Course 101,Business Analytics,"Excel, Tableau, Business Strategy",0.51,https://example.com/course-101
+Course 102,Cybersecurity,"Network Security, Ethical Hacking",0.51,https://example.com/course-102
+Course 103,Mobile App Development,"Kotlin, Flutter, Android Studio",0.52,https://example.com/course-103
+Course 104,AI & ML,"Deep Learning, Neural Networks",0.52,https://example.com/course-104
+Course 105,Data Science,"Python, Statistics, Machine Learning",0.53,https://example.com/course-105
+Course 106,Web Development,"HTML, CSS, JavaScript",0.53,https://example.com/course-106
+Course 107,Graphic Design,"Adobe Photoshop, Illustrator",0.54,https://example.com/course-107
+Course 108,Digital Marketing,"SEO, Google Ads, Content Marketing",0.54,https://example.com/course-108
+Course 109,Business Analytics,"Excel, Tableau, Business Strategy",0.55,https://example.com/course-109
+Course 110,Cybersecurity,"Network Security, Ethical Hacking",0.55,https://example.com/course-110
+Course 111,Mobile App Development,"Kotlin, Flutter, Android Studio",0.56,https://example.com/course-111
+Course 112,AI & ML,"Deep Learning, Neural Networks",0.56,https://example.com/course-112
+Course 113,Data Science,"Python, Statistics, Machine Learning",0.56,https://example.com/course-113
+Course 114,Web Development,"HTML, CSS, JavaScript",0.57,https://example.com/course-114
+Course 115,Graphic Design,"Adobe Photoshop, Illustrator",0.57,https://example.com/course-115
+Course 116,Digital Marketing,"SEO, Google Ads, Content Marketing",0.58,https://example.com/course-116
+Course 117,Business Analytics,"Excel, Tableau, Business Strategy",0.58,https://example.com/course-117
+Course 118,Cybersecurity,"Network Security, Ethical Hacking",0.59,https://example.com/course-118
+Course 119,Mobile App Development,"Kotlin, Flutter, Android Studio",0.59,https://example.com/course-119
+Course 120,AI & ML,"Deep Learning, Neural Networks",0.6,https://example.com/course-120
+Course 121,Data Science,"Python, Statistics, Machine Learning",0.6,https://example.com/course-121
+Course 122,Web Development,"HTML, CSS, JavaScript",0.61,https://example.com/course-122
+Course 123,Graphic Design,"Adobe Photoshop, Illustrator",0.61,https://example.com/course-123
+Course 124,Digital Marketing,"SEO, Google Ads, Content Marketing",0.62,https://example.com/course-124
+Course 125,Business Analytics,"Excel, Tableau, Business Strategy",0.62,https://example.com/course-125
+Course 126,Cybersecurity,"Network Security, Ethical Hacking",0.63,https://example.com/course-126
+Course 127,Mobile App Development,"Kotlin, Flutter, Android Studio",0.64,https://example.com/course-127
+Course 128,AI & ML,"Deep Learning, Neural Networks",0.64,https://example.com/course-128
+Course 129,Data Science,"Python, Statistics, Machine Learning",0.65,https://example.com/course-129
+Course 130,Web Development,"HTML, CSS, JavaScript",0.65,https://example.com/course-130
+Course 131,Graphic Design,"Adobe Photoshop, Illustrator",0.66,https://example.com/course-131
+Course 132,Digital Marketing,"SEO, Google Ads, Content Marketing",0.66,https://example.com/course-132
+Course 133,Business Analytics,"Excel, Tableau, Business Strategy",0.67,https://example.com/course-133
+Course 134,Cybersecurity,"Network Security, Ethical Hacking",0.67,https://example.com/course-134
+Course 135,Mobile App Development,"Kotlin, Flutter, Android Studio",0.68,https://example.com/course-135
+Course 136,AI & ML,"Deep Learning, Neural Networks",0.68,https://example.com/course-136
+Course 137,Data Science,"Python, Statistics, Machine Learning",0.69,https://example.com/course-137
+Course 138,Web Development,"HTML, CSS, JavaScript",0.69,https://example.com/course-138
+Course 139,Graphic Design,"Adobe Photoshop, Illustrator",0.69,https://example.com/course-139
+Course 140,Digital Marketing,"SEO, Google Ads, Content Marketing",0.7,https://example.com/course-140
+Course 141,Business Analytics,"Excel, Tableau, Business Strategy",0.7,https://example.com/course-141
+Course 142,Cybersecurity,"Network Security, Ethical Hacking",0.71,https://example.com/course-142
+Course 143,Mobile App Development,"Kotlin, Flutter, Android Studio",0.71,https://example.com/course-143
+Course 144,AI & ML,"Deep Learning, Neural Networks",0.72,https://example.com/course-144
+Course 145,Data Science,"Python, Statistics, Machine Learning",0.72,https://example.com/course-145
+Course 146,Web Development,"HTML, CSS, JavaScript",0.73,https://example.com/course-146
+Course 147,Graphic Design,"Adobe Photoshop, Illustrator",0.73,https://example.com/course-147
+Course 148,Digital Marketing,"SEO, Google Ads, Content Marketing",0.74,https://example.com/course-148
+Course 149,Business Analytics,"Excel, Tableau, Business Strategy",0.74,https://example.com/course-149
+Course 150,Cybersecurity,"Network Security, Ethical Hacking",0.75,https://example.com/course-150
+Course 151,Mobile App Development,"Kotlin, Flutter, Android Studio",0.76,https://example.com/course-151
+Course 152,AI & ML,"Deep Learning, Neural Networks",0.76,https://example.com/course-152
+Course 153,Data Science,"Python, Statistics, Machine Learning",0.77,https://example.com/course-153
+Course 154,Web Development,"HTML, CSS, JavaScript",0.77,https://example.com/course-154
+Course 155,Graphic Design,"Adobe Photoshop, Illustrator",0.78,https://example.com/course-155
+Course 156,Digital Marketing,"SEO, Google Ads, Content Marketing",0.78,https://example.com/course-156
+Course 157,Business Analytics,"Excel, Tableau, Business Strategy",0.79,https://example.com/course-157
+Course 158,Cybersecurity,"Network Security, Ethical Hacking",0.79,https://example.com/course-158
+Course 159,Mobile App Development,"Kotlin, Flutter, Android Studio",0.8,https://example.com/course-159
+Course 160,AI & ML,"Deep Learning, Neural Networks",0.8,https://example.com/course-160
+Course 161,Data Science,"Python, Statistics, Machine Learning",0.81,https://example.com/course-161
+Course 162,Web Development,"HTML, CSS, JavaScript",0.81,https://example.com/course-162
+Course 163,Graphic Design,"Adobe Photoshop, Illustrator",0.81,https://example.com/course-163
+Course 164,Digital Marketing,"SEO, Google Ads, Content Marketing",0.82,https://example.com/course-164
+Course 165,Business Analytics,"Excel, Tableau, Business Strategy",0.82,https://example.com/course-165
+Course 166,Cybersecurity,"Network Security, Ethical Hacking",0.83,https://example.com/course-166
+Course 167,Mobile App Development,"Kotlin, Flutter, Android Studio",0.83,https://example.com/course-167
+Course 168,AI & ML,"Deep Learning, Neural Networks",0.84,https://example.com/course-168
+Course 169,Data Science,"Python, Statistics, Machine Learning",0.84,https://example.com/course-169
+Course 170,Web Development,"HTML, CSS, JavaScript",0.85,https://example.com/course-170
+Course 171,Graphic Design,"Adobe Photoshop, Illustrator",0.85,https://example.com/course-171
+Course 172,Digital Marketing,"SEO, Google Ads, Content Marketing",0.86,https://example.com/course-172
+Course 173,Business Analytics,"Excel, Tableau, Business Strategy",0.86,https://example.com/course-173
+Course 174,Cybersecurity,"Network Security, Ethical Hacking",0.87,https://example.com/course-174
+Course 175,Mobile App Development,"Kotlin, Flutter, Android Studio",0.88,https://example.com/course-175
+Course 176,AI & ML,"Deep Learning, Neural Networks",0.88,https://example.com/course-176
+Course 177,Data Science,"Python, Statistics, Machine Learning",0.89,https://example.com/course-177
+Course 178,Web Development,"HTML, CSS, JavaScript",0.89,https://example.com/course-178
+Course 179,Graphic Design,"Adobe Photoshop, Illustrator",0.9,https://example.com/course-179
+Course 180,Digital Marketing,"SEO, Google Ads, Content Marketing",0.9,https://example.com/course-180
+Course 181,Business Analytics,"Excel, Tableau, Business Strategy",0.91,https://example.com/course-181
+Course 182,Cybersecurity,"Network Security, Ethical Hacking",0.91,https://example.com/course-182
+Course 183,Mobile App Development,"Kotlin, Flutter, Android Studio",0.92,https://example.com/course-183
+Course 184,AI & ML,"Deep Learning, Neural Networks",0.92,https://example.com/course-184
+Course 185,Data Science,"Python, Statistics, Machine Learning",0.93,https://example.com/course-185
+Course 186,Web Development,"HTML, CSS, JavaScript",0.93,https://example.com/course-186
+Course 187,Graphic Design,"Adobe Photoshop, Illustrator",0.94,https://example.com/course-187
+Course 188,Digital Marketing,"SEO, Google Ads, Content Marketing",0.94,https://example.com/course-188
+Course 189,Business Analytics,"Excel, Tableau, Business Strategy",0.94,https://example.com/course-189
+Course 190,Cybersecurity,"Network Security, Ethical Hacking",0.95,https://example.com/course-190
+Course 191,Mobile App Development,"Kotlin, Flutter, Android Studio",0.95,https://example.com/course-191
+Course 192,AI & ML,"Deep Learning, Neural Networks",0.96,https://example.com/course-192
+Course 193,Data Science,"Python, Statistics, Machine Learning",0.96,https://example.com/course-193
+Course 194,Web Development,"HTML, CSS, JavaScript",0.97,https://example.com/course-194
+Course 195,Graphic Design,"Adobe Photoshop, Illustrator",0.97,https://example.com/course-195
+Course 196,Digital Marketing,"SEO, Google Ads, Content Marketing",0.98,https://example.com/course-196
+Course 197,Business Analytics,"Excel, Tableau, Business Strategy",0.98,https://example.com/course-197
+Course 198,Cybersecurity,"Network Security, Ethical Hacking",0.99,https://example.com/course-198
+Course 199,Mobile App Development,"Kotlin, Flutter, Android Studio",0.99,https://example.com/course-199
+Course 200,AI & ML,"Deep Learning, Neural Networks",1.0,https://example.com/course-200
