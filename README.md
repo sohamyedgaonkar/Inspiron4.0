@@ -1,56 +1,118 @@
-# Audio2Face-3D Microservice
+# Cognilearn
 
-NVIDIA Audio2Face-3D NIM (A2F-3D NIM) is delivering generative AI avatar animation solutions based on audio and emotion inputs.
+Cognilearn is a learning platform that includes courses, quizzes, and notes to help learners enhance their knowledge. This project is divided into two parts: the frontend (React) and the backend (Flask).
 
-The Audio2Face-3D Microservice converts speech into facial animation in the form of
-[ARKit Blendshapes](https://developer.apple.com/documentation/arkit). The facial animation includes emotional
-expression. Where emotions can be detected, the facial animation system captures key poses and shapes to replicate
-character facial performance by automatically detecting emotions in the input audio. Additionally emotions can be
-directly specified as part of the input to the microservice. A rendering engine can consume Blendshape topology to
-display a 3D avatar's performance.
+---
+![WhatsApp Image 2025-03-30 at 15 27 32](https://github.com/user-attachments/assets/0260966c-83a8-4f30-88eb-09a665705c41)
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Features](#features)
 
-![](A2FGit_Banner_03.png)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+  - [Frontend Setup](#frontend-setup)
+  - [Backend Setup](#backend-setup)
+- [Usage](#usage)
+- [GitHub Repository Analyzer](#github-repository-analyzer)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
 
-This Git repository stores resources presented in
-[Audio2Face-3D Microservice documentation](https://docs.nvidia.com/ace/latest/modules/a2f-docs/text/getting_started/overview.html).
-However, Audio2Face-3D NIM can be obtained through an evaluation license of NV AI Enterprise (NVAIE) through NGC.
+---
 
-1. [Try out the A2F-3D NIM experience](https://build.nvidia.com/nvidia/audio2face-3d)
-2. [Try NIM For Digital Human](https://build.nvidia.com/explore/gaming)
+## Project Overview
+Cognilearn is designed to provide an interactive learning experience through various educational resources such as courses, quizzes, and notes. It consists of:
+- **Frontend**: Developed using React.js
+- **Backend**: Built using Flask
 
-## Example Workflows
+---
 
-For example worflows, please see the [NVIDIA ACE samples, workflows, and resources](https://github.com/NVIDIA/ACE?tab=readme-ov-file#digital-human-workflows) Git repository.
+## Features
+- Dashboard
+- Courses
+- ATS Analyzer
+- GitHub Chat
+- Quizzes
+- Research Papers
+- Student Roadmap
+- Notes
+- Summary
+- Profile
+- AI Content
+- GitHub Repository Analyzer
+![WhatsApp Image 2025-03-30 at 15 29 11](https://github.com/user-attachments/assets/455c66cf-2830-4287-a3c7-94b74074c571)
 
-## Documentation
+<img width="1552" alt="Screenshot 2025-03-30 at 3 35 40 PM" src="https://github.com/user-attachments/assets/6f9a8136-b262-421f-bdbd-0f056e9c5dbf" />
 
-Full Audio2Face-3D NIM [developer documentation](https://docs.nvidia.com/ace/latest/modules/a2f-docs/text/getting_started/overview.html).
 
-## Repository structure
+## Technologies Used
+- Python
+- OpenAI API
+- Whisper API
+- Pygame
+- Sounddevice
+- OpenCV
+- Transformers (image-classification pipeline)
+- PIL
 
-Here is a quick overview of the available Audio2Face-3D resources in this Git repository:
+---
 
-* `configs/` folder:
-  * Contains example static deployment, advanced and stylization configurations.
-* `early_access/` folder:
-  * Contains examples and sample applications for our early access releases.
-* `example_audio/` folder:
-  * Contains example audio files.
-* `migration/` folder:
-  * Contains scripts to help you migrate from previous versions of A2F-3D to latest.
-* `proto/` folder:
-  * Contains gRPC proto definitions for the microservices and instructions for
-    installing them.
-* `quick-start/` folder:
-  * Contains docker compose files deploying Audio2Face-3D (A2F-3D) and collecting telemetry data.
-* `scripts/` folder:
-  * Contains example applications using Audio2Face-3D (A2F-3D) Microservice and instructions for
-    running the scripts.
+## Installation
+### Frontend Setup
+1. Navigate to the frontend directory:
+   ```sh
+   cd frontend
+   ```
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+3. Start the development server:
+   ```sh
+   npm start
+   ```
 
-## License
+### Backend Setup
+1. Navigate to the backend directory:
+   ```sh
+   cd backend
+   ```
+2. Create a virtual environment:
+   ```sh
+   python -m venv venv
+   source venv/bin/activate   # On Windows: venv\Scripts\activate
+   ```
+3. Install dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+4. Start the Flask server:
+   ```sh
+ python App.py
+   ```
 
-Github - [Apache 2](https://www.apache.org/licenses/LICENSE-2.0.txt)
+---
 
-ACE NIMs and NGC Microservices - [NVIDIA AI Product License](https://www.nvidia.com/en-us/data-center/products/nvidia-ai-enterprise/eula/)
+## Usage
+Once both the frontend and backend are running, open the frontend URL in the browser and start exploring the features.
 
-Note: This project will download and install additional third-party open source software projects. Review the license terms of these open source projects before use.
+---
+
+## GitHub Repository Analyzer
+The **GitHub Repository Analyzer** is a feature that allows users to analyze GitHub repositories by inputting a repository URL. This tool helps in evaluating repositories based on various parameters like:
+- Code complexity
+- Readability
+- Best practices adherence
+- Dependency analysis
+- Contribution insights
+
+Users can enter a GitHub repository URL, and the system will generate a report based on the analysis.
+
+---
+
+
+## Contributing
+Feel free to fork the repository, create a new branch, and submit a pull request with your improvements.
+
+---
+
