@@ -1,3 +1,4 @@
+
 //correct code latest
 "use client"
 import React, { useState, useEffect } from 'react';
@@ -309,6 +310,25 @@ const ATSAnalyzer = () => {
     doc.save('ATS_Analysis_Report.pdf');
   };
 
+  // Add this function to fetch LinkedIn job data
+  const [linkedInJobs, setLinkedInJobs] = useState<any[]>([]);
+  
+  useEffect(() => {
+    // Fetch LinkedIn jobs data when component mounts
+    const fetchLinkedInJobs = async () => {
+      try {
+        const response = await fetch('/src/pages/linkedin_jobs_ML_Intern.json');
+        const data = await response.json();
+        // Get first 5 jobs
+        setLinkedInJobs(data.slice(0, 5));
+      } catch (error) {
+        console.error('Error fetching LinkedIn jobs:', error);
+      }
+    };
+    
+    fetchLinkedInJobs();
+  }, []);
+
   return (
     <Card className="w-full max-w-4xl mx-auto mt-20 bg-black text-white">
       <CardHeader>
@@ -443,6 +463,29 @@ const ATSAnalyzer = () => {
             <Button onClick={downloadReport} className="w-full mt-4 bg-indigo-600 hover:bg-indigo-700 text-white">
               Download Analysis Report (PDF)
             </Button>
+            
+            {/* Add LinkedIn Jobs Section */}
+            <div className="p-4 bg-gray-800 rounded-lg">
+              <h3 className="font-semibold text-indigo-400 mb-4">Recommended Job Opportunities</h3>
+              <div className="space-y-3">
+                {linkedInJobs.map((job, index) => (
+                  <div key={index} className="border border-gray-700 rounded-md p-3 flex justify-between items-center">
+                    <div>
+                      <h4 className="font-medium text-emerald-400">{job.Title}</h4>
+                      <p className="text-gray-300">{job.Company} • {job.Location}</p>
+                    </div>
+                    <a 
+                      href={job.Link} 
+                      target="_blank" 
+                      rel="noopener noreferrer"
+                      className="bg-indigo-600 hover:bg-indigo-700 text-white px-4 py-2 rounded-md text-sm font-medium"
+                    >
+                      Apply
+                    </a>
+                  </div>
+                ))}
+              </div>
+            </div>
           </div>
         )}
       </CardContent>
