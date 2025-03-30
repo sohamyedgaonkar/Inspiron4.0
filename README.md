@@ -71,7 +71,7 @@ Cognilearn is designed to provide an interactive learning experience through var
 
 4. Start the Flask server:
    ```sh
-   flask run
+   python App.py
    ```
 
 ---
