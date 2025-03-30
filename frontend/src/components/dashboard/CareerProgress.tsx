@@ -1,139 +1,126 @@
-/*
-
-// CareerProgress.tsx this is well fuctioning code but i real time fetching data from supabase so i commented it out
-
-import { useState, useEffect } from "react";
-import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
-import { Progress } from "@/components/ui/progress";
-import { useToast } from "@/hooks/use-toast";
-import { supabase } from "@/integrations/supabase/client";
+import { useEffect, useState } from "react";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Input } from "@/components/ui/input";
+import { Button } from "@/components/ui/button";
 
 const CareerProgress = () => {
-  const [progress, setProgress] = useState(0);
-  const [careerGoal, setCareerGoal] = useState("");
-  const { toast } = useToast();
+  const [careerGoal, setCareerGoal] = useState<{
+    goal: string;
+    current_progress: number;
+    skills: string[];
+  } | null>(null);
+
+  const [requiredSkills, setRequiredSkills] = useState<string[]>([]);
+  const [missingSkills, setMissingSkills] = useState<string[]>([]);
+  const [company, setCompany] = useState(""); // User-input company name
 
   useEffect(() => {
-    const fetchCareerGoal = async () => {
-      try {
-        const { data: { user } } = await supabase.auth.getUser();
-        
-        if (!user) throw new Error("No user found");
-
-        const { data, error } = await supabase
-          .from('onboarding_responses')
-          .select('learning_goals')
-          .eq('user_id', user.id)
-          .single();
-
-        if (error) throw error;
-
-        // Set career goal from learning goals
-        if (data?.learning_goals?.length > 0) {
-          setCareerGoal(data.learning_goals[0]);
-          // Calculate mock progress (you can modify this logic)
-          setProgress(Math.floor(Math.random() * 100));
+    // Fetch user's career goal progress (general progress, not company-specific)
+    fetch("/api/get-career-goal", {
+      method: "GET",
+      headers: { "Content-Type": "application/json" },
+    })
+      .then((res) => res.json())
+      .then((data) => {
+        if (!data.error) {
+          setCareerGoal(data);
         }
-      } catch (error: any) {
-        console.error("Error fetching career goal:", error);
-        toast({
-          title: "Error",
-          description: "Failed to load career progress",
-          variant: "destructive",
-        });
-      }
-    };
+      })
+      .catch((error) => console.error("Error fetching career goal:", error));
+  }, []);
 
-    fetchCareerGoal();
-  }, [toast]);
+  const fetchRequiredSkills = () => {
+    if (!company.trim()) return;
 
-  return (
-    <Card>
-      <CardHeader>
-        <CardTitle>Career Progress</CardTitle>
-      </CardHeader>
-      <CardContent>
-        <div className="space-y-4">
-          <div>
-            <h3 className="font-medium mb-2">Current Goal</h3>
-            <p className="text-muted-foreground">{careerGoal || "No goal set"}</p>
-          </div>
-          <div>
-            <h3 className="font-medium mb-2">Progress</h3>
-            <Progress value={progress} className="h-2" />
-            <p className="text-sm text-muted-foreground mt-2">{progress}% Complete</p>
-          </div>
-        </div>
-      </CardContent>
-    </Card>
-  );
-};
+    fetch("/api/get-required-skills", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ company }),
+    })
+      .then((res) => res.json())
+      .then((data) => {
+        if (!data.error) {
+          setRequiredSkills(data.skills);
+        } else {
+          setRequiredSkills([]);
+        }
+      })
+      .catch((error) => console.error("Error fetching required skills:", error));
+  };
 
-export default CareerProgress;
-*/
-
-import { useState, useEffect } from "react";
-import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
-import { Progress } from "@/components/ui/progress";
-import { useToast } from "@/hooks/use-toast";
-import { supabase } from "@/integrations/supabase/client";
-
-const CareerProgress = () => {
-  const [progress, setProgress] = useState(0);
-  const [careerGoal, setCareerGoal] = useState("");
-  const { toast } = useToast();
-
+  // Compare required skills with user’s current skills
   useEffect(() => {
-    const fetchCareerGoal = async () => {
-      try {
-        const { data: { user } } = await supabase.auth.getUser();
-        
-        if (!user) throw new Error("No user found");
-
-        const { data, error } = await supabase
-          .from('onboarding_responses')
-          .select('learning_goals')
-          .eq('user_id', user.id)
-          .single();
-
-        if (error) throw error;
-
-        // Set career goal from learning goals
-        if (data?.learning_goals?.length > 0) {
-          setCareerGoal(data.learning_goals[0]);
-          // Calculate mock progress (you can modify this logic)
-          setProgress(Math.floor(Math.random() * 100));
-        }
-      } catch (error: any) {
-        console.error("Error fetching career goal:", error);
-        toast({
-          title: "Error",
-          description: "Failed to load career progress",
-          variant: "destructive",
-        });
-      }
-    };
-
-    fetchCareerGoal();
-  }, [toast]);
+    if (careerGoal && requiredSkills.length > 0) {
+      const missing = requiredSkills.filter(
+        (skill) => !careerGoal.skills.includes(skill)
+      );
+      setMissingSkills(missing);
+    }
+  }, [careerGoal, requiredSkills]);
 
   return (
-    <Card>
+    <Card className="w-full bg-black/50 border-border/50 p-4">
       <CardHeader>
-        <CardTitle>Career Progress</CardTitle>
+        <CardTitle className="text-xl font-semibold">Career Progress</CardTitle>
       </CardHeader>
-      <CardContent>
-        <div className="space-y-4">
-          <div>
-            <h3 className="font-medium mb-2">Current Goal</h3>
-            <p className="text-muted-foreground">{careerGoal || "No goal set"}</p>
-          </div>
-          <div>
-            <h3 className="font-medium mb-2">Progress</h3>
-            <Progress value={progress} className="h-2" />
-            <p className="text-sm text-muted-foreground mt-2">{progress}% Complete</p>
-          </div>
-        </div>
+      <CardContent className="space-y-4">
+        {careerGoal ? (
+          <>
+            <p className="text-lg font-medium">{careerGoal.goal}</p>
+            <p>Progress: {careerGoal.current_progress}%</p>
+            <div className="h-2 bg-muted rounded-full overflow-hidden">
+              <div
+                className="h-full bg-primary transition-all duration-300"
+                style={{ width: `${careerGoal.current_progress}%` }}
+              />
+            </div>
+
+            <p className="font-semibold">Your Skills:</p>
+            <ul className="list-disc pl-4">
+              {careerGoal.skills.map((skill, i) => (
+                <li key={i}>{skill}</li>
+              ))}
+            </ul>
+
+            <div className="space-y-2">
+              <Input
+                type="text"
+                placeholder="Enter company name (e.g., Google)"
+                value={company}
+                onChange={(e) => setCompany(e.target.value)}
+              />
+              <Button onClick={fetchRequiredSkills} className="w-full">
+                Fetch Required Skills
+              </Button>
+            </div>
+
+            {requiredSkills.length > 0 && (
+              <>
+                <p className="font-semibold">Required Skills for {company}:</p>
+                <ul className="list-disc pl-4">
+                  {requiredSkills.map((skill, i) => (
+                    <li key={i}>{skill}</li>
+                  ))}
+                </ul>
+              </>
+            )}
+
+            {missingSkills.length > 0 && (
+              <>
+                <p className="font-semibold text-red-500">
+                  Skills You Need to Improve:
+                </p>
+                <ul className="list-disc pl-4 text-red-400">
+                  {missingSkills.map((skill, i) => (
+                    <li key={i}>{skill}</li>
+                  ))}
+                </ul>
+              </>
+            )}
+          </>
+        ) : (
+          <p>Loading career goal data...</p>
+        )}
       </CardContent>
     </Card>
   );

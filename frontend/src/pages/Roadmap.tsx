@@ -108,11 +108,11 @@ const RoadmapPage = () => {
       }
 
       // Process the resources to ensure all have URLs
+      // Fix string interpolation in URL generation
       const processedSteps = parsedResult.steps.map(step => ({
         ...step,
         resources: step.resources.map(resource => ({
           ...resource,
-          // If URL is missing or empty, add a default search URL
           url: resource.url && resource.url.trim() !== '' 
             ? resource.url 
             : `https://www.google.com/search?q=${encodeURIComponent(resource.name + ' ' + resource.type)}`
@@ -241,4 +241,3 @@ const RoadmapPage = () => {
 };
 
 export default RoadmapPage;
-

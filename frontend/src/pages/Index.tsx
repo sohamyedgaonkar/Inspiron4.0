@@ -1,18 +1,29 @@
-import Navigation from "@/components/Navigation";
+import { Suspense } from 'react';
 import Hero from "@/components/Hero";
 import Features from "@/components/Features";
 import Footer from "@/components/Footer";
+import { Helmet } from 'react-helmet';
+
+const LoadingFallback = () => <div className="animate-pulse">Loading...</div>;
 
 const Index = () => {
   return (
-    <div className="min-h-screen">
-      <Navigation />
-      <main className="pt-16">
-        <Hero />
-        <Features />
-      </main>
-      <Footer />
-    </div>
+    <>
+      <Helmet>
+        <title>AI Learning Platform</title>
+        <meta name="description" content="AI-powered learning platform for students" />
+      </Helmet>
+      
+      <div className="min-h-screen">
+        <main className="pt-16">
+          <Suspense fallback={<LoadingFallback />}>
+            <Hero />
+            <Features />
+          </Suspense>
+        </main>
+        <Footer />
+      </div>
+    </>
   );
 };
 

@@ -310,7 +310,7 @@ const ATSAnalyzer = () => {
   };
 
   return (
-    <Card className="w-full max-w-4xl mx-auto mt-8 bg-black text-white">
+    <Card className="w-full max-w-4xl mx-auto mt-20 bg-black text-white">
       <CardHeader>
         <CardTitle className="text-2xl font-bold text-center text-white">Smart ATS</CardTitle>
         <p className="text-center text-gray-400">Improve Your Resume ATS</p>

@@ -380,7 +380,7 @@ const ResearchPaperAnalyzer = () => {
   };
 
   return (
-    <div className="min-h-screen bg-black text-white px-4 py-10 relative">
+    <div className="min-h-screen bg-black text-white mx-auto mt-20 px-4 py-10 relative">
       {/* Toast Container */}
       <div className="fixed top-5 right-5 space-y-3 z-50">
         {toasts.map((toast) => (

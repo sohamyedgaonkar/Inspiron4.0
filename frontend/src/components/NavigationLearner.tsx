@@ -1,41 +1,47 @@
 import { useState } from "react";
-import { Menu, X, Layout, FileText, User, BookOpen, Microscope, GitBranch, FileCheck, Map } from "lucide-react";
+import { Menu, X, User, LayoutDashboard, BookOpen, BrainCircuit, NotebookPen, GitBranch, FileCheck, Map } from "lucide-react";
 import { Link, useLocation } from "react-router-dom";
 import { cn } from "@/lib/utils";
 
-const Navigation = () => {
+const NavigationLearner = () => {
   const [isOpen, setIsOpen] = useState(false);
   const location = useLocation();
 
   const navItems = [
     { 
       name: "Dashboard", 
-      path: "/dashboard", 
-      icon: <Layout className="h-4 w-4" /> 
+      path: "/learner/dashboard", 
+      icon: <LayoutDashboard className="h-4 w-4" /> 
     },
     { 
-      name: "Research Papers", 
-      path: "/researchpaper", 
-      icon: <Microscope className="h-4 w-4" /> 
+      name: "Courses", 
+      path: "/learner/course", 
+      icon: <BookOpen className="h-4 w-4" /> 
     },
     { 
-      name: "ATS Check", 
-      path: "/ats", 
-      icon: <FileCheck className="h-4 w-4" /> 
-    },
-    { 
-      name: "GitHub Analyzer", 
-      path: "/githubchat", 
-      icon: <FileCheck className="h-4 w-4" /> 
+      name: "Quizzes", 
+      path: "/learner/quiz", 
+      icon: <BrainCircuit className="h-4 w-4" /> 
     },
     { 
       name: "Notes", 
-      path: "/notes", 
-      icon: <FileText className="h-4 w-4" /> 
+      path: "/learner/notes", 
+      icon: <NotebookPen className="h-4 w-4" /> 
+    },
+    { 
+      name: "Research Papers", 
+      path: "/learner/research-paper", 
+      icon: <FileCheck className="h-4 w-4" /> 
+    },
+  
+    { 
+      name: "Career Roadmap", 
+      path: "/learner/roadmap", 
+      icon: <Map className="h-4 w-4" /> 
     },
     { 
       name: "Profile", 
-      path: "/profile", 
+      path: "/learner/profile", 
       icon: <User className="h-4 w-4" /> 
     },
   ];
@@ -46,10 +52,9 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex-shrink-0">
             <Link 
-              to="/dashboard" 
-              className="text-xl font-semibold text-white hover:text-purple-400 transition-colors flex items-center gap-2"
+              to="/learner/dashboard" 
+              className="text-xl font-semibold hover:text-primary transition-colors"
             >
-              <BookOpen className="h-6 w-6" />
               CogniLearn
             </Link>
           </div>
@@ -61,11 +66,8 @@ const Navigation = () => {
                   key={item.name}
                   to={item.path}
                   className={cn(
-                    "px-3 py-2 rounded-md text-sm font-medium transition-all duration-200",
-                    "hover:bg-purple-500/10 hover:text-purple-400 flex items-center gap-2",
-                    location.pathname === item.path 
-                      ? "bg-purple-500/20 text-purple-400" 
-                      : "text-gray-300"
+                    "px-3 py-2 rounded-md text-sm font-medium transition-colors hover:bg-white/10 hover:text-white flex items-center gap-2",
+                    location.pathname === item.path && "bg-white/10 text-white"
                   )}
                 >
                   {item.icon}
@@ -78,7 +80,7 @@ const Navigation = () => {
           <div className="md:hidden">
             <button
               onClick={() => setIsOpen(!isOpen)}
-              className="inline-flex items-center justify-center p-2 rounded-md text-gray-300 hover:bg-purple-500/10 hover:text-purple-400 focus:outline-none"
+              className="inline-flex items-center justify-center p-2 rounded-md hover:bg-white/10 hover:text-white focus:outline-none"
               aria-label="Toggle menu"
             >
               {isOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
@@ -90,17 +92,14 @@ const Navigation = () => {
       {/* Mobile menu */}
       {isOpen && (
         <div className="md:hidden">
-          <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-black/90 backdrop-blur-sm">
+          <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-black/80 backdrop-blur-sm">
             {navItems.map((item) => (
               <Link
                 key={item.name}
                 to={item.path}
                 className={cn(
-                  "flex items-center gap-2 px-3 py-2 rounded-md text-base font-medium",
-                  "hover:bg-purple-500/10 hover:text-purple-400 transition-all duration-200",
-                  location.pathname === item.path 
-                    ? "bg-purple-500/20 text-purple-400" 
-                    : "text-gray-300"
+                  "flex items-center gap-2 px-3 py-2 rounded-md text-base font-medium hover:bg-white/10 hover:text-white",
+                  location.pathname === item.path && "bg-white/10 text-white"
                 )}
                 onClick={() => setIsOpen(false)}
               >
@@ -115,4 +114,4 @@ const Navigation = () => {
   );
 };
 
-export default Navigation;
+export default NavigationLearner;

@@ -1,13 +1,43 @@
-import { useState } from "react";
-import { useNavigate } from "react-router-dom";
+import { useState, useEffect } from "react";
+import { useNavigate, useSearchParams } from "react-router-dom";
 import { supabase } from "@/integrations/supabase/client";
 import { AuthForm } from "@/components/auth/AuthForm";
 import { useToast } from "@/hooks/use-toast";
 
 const Auth = () => {
   const [loading, setLoading] = useState(false);
+  const [isLogin, setIsLogin] = useState(true);
   const navigate = useNavigate();
+  const [searchParams] = useSearchParams();
   const { toast } = useToast();
+
+  // Handle mode from URL parameters
+  useEffect(() => {
+    const mode = searchParams.get('mode');
+    setIsLogin(mode !== 'signup');
+  }, [searchParams]);
+
+  // Add session check
+  useEffect(() => {
+    const checkSession = async () => {
+      const { data: { session } } = await supabase.auth.getSession();
+      if (session?.user) {
+        const { data: onboardingStatus } = await supabase
+          .from('onboarding_status')
+          .select('is_completed')
+          .eq('user_id', session.user.id)
+          .single();
+
+        if (!onboardingStatus?.is_completed) {
+          navigate('/onboarding');
+        } else {
+          navigate('/dashboard');
+        }
+      }
+    };
+
+    checkSession();
+  }, [navigate]);
 
   const handleAuth = async (formData: {
     email: string;
@@ -71,10 +101,11 @@ const Auth = () => {
         }
 
         // Redirect based on onboarding status
+        // Update redirect logic
         if (!onboardingStatus?.is_completed) {
-          navigate("/onboarding");
+          navigate("/onboarding", { replace: true });
         } else {
-          navigate("/dashboard");
+          navigate("/pagezero", { replace: true }); // Changed from /dashboard to /pagezero
         }
 
         toast({
@@ -146,7 +177,20 @@ const Auth = () => {
   return (
     <div className="min-h-screen flex items-center justify-center bg-background">
       <div className="w-full max-w-md p-8 space-y-6 animate-fade-up glass rounded-lg">
-        <AuthForm onSubmit={handleAuth} loading={loading} />
+        <AuthForm 
+          onSubmit={(formData: FormData, isLogin: boolean) => {
+            const data = {
+              email: formData.get('email') as string,
+              password: formData.get('password') as string,
+              confirmPassword: formData.get('confirmPassword') as string,
+              username: formData.get('username') as string,
+              fullName: formData.get('fullName') as string,
+            };
+            return handleAuth(data, isLogin);
+          }}
+          loading={loading} 
+          defaultMode={!isLogin} 
+        />
       </div>
     </div>
   );
