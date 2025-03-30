@@ -1,106 +1,56 @@
-# Cognilearn
+# Audio2Face-3D Microservice
 
-Cognilearn is a learning platform that includes courses, quizzes, and notes to help learners enhance their knowledge. This project is divided into two parts: the frontend (React) and the backend (Flask).
+NVIDIA Audio2Face-3D NIM (A2F-3D NIM) is delivering generative AI avatar animation solutions based on audio and emotion inputs.
 
----
+The Audio2Face-3D Microservice converts speech into facial animation in the form of
+[ARKit Blendshapes](https://developer.apple.com/documentation/arkit). The facial animation includes emotional
+expression. Where emotions can be detected, the facial animation system captures key poses and shapes to replicate
+character facial performance by automatically detecting emotions in the input audio. Additionally emotions can be
+directly specified as part of the input to the microservice. A rendering engine can consume Blendshape topology to
+display a 3D avatar's performance.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Installation](#installation)
-  - [Frontend Setup](#frontend-setup)
-  - [Backend Setup](#backend-setup)
-- [Usage](#usage)
-- [AI-Powered Features](#ai-powered-features)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+![](A2FGit_Banner_03.png)
 
----
+This Git repository stores resources presented in
+[Audio2Face-3D Microservice documentation](https://docs.nvidia.com/ace/latest/modules/a2f-docs/text/getting_started/overview.html).
+However, Audio2Face-3D NIM can be obtained through an evaluation license of NV AI Enterprise (NVAIE) through NGC.
 
-## Project Overview
-Cognilearn is designed to provide an interactive learning experience through various educational resources such as courses, quizzes, and notes. It consists of:
-- **Frontend**: Developed using React.js
-- **Backend**: Built using Flask
+1. [Try out the A2F-3D NIM experience](https://build.nvidia.com/nvidia/audio2face-3d)
+2. [Try NIM For Digital Human](https://build.nvidia.com/explore/gaming)
 
----
+## Example Workflows
 
+For example worflows, please see the [NVIDIA ACE samples, workflows, and resources](https://github.com/NVIDIA/ACE?tab=readme-ov-file#digital-human-workflows) Git repository.
 
-## Features
-- User authentication
-- Interactive quizzes
-- Notes management
-- AI-powered recommendations
-- Github Analyzer
-- Roadmap
-- Research Paper Analyzer
-- Interview
-- Custamize Roadmap
-- LinkendIn Job Recom.
-  
-- ![WhatsApp Image 2025-03-30 at 15 27 32](https://github.com/user-attachments/assets/8ceae06a-f2f4-4c3b-8f79-35bc5d9971a6)
+## Documentation
 
+Full Audio2Face-3D NIM [developer documentation](https://docs.nvidia.com/ace/latest/modules/a2f-docs/text/getting_started/overview.html).
 
----
+## Repository structure
 
-## Installation
-### Frontend Setup
-1. Navigate to the frontend directory:
-   ```sh
-   cd frontend
-   ```
-2. Install dependencies:
-   ```sh
-   npm i
-   ```
-3. Start the development server:
-   ```sh
-   npm start
-   ```
+Here is a quick overview of the available Audio2Face-3D resources in this Git repository:
 
-### Backend Setup
-1. Navigate to the backend directory:
-   ```sh
-   cd backend
-   ```
-2. Create a virtual environment:
-   ```sh
-   python -m venv venv
-   source venv/bin/activate   # On Windows: venv\Scripts\activate
-   ```
+* `configs/` folder:
+  * Contains example static deployment, advanced and stylization configurations.
+* `early_access/` folder:
+  * Contains examples and sample applications for our early access releases.
+* `example_audio/` folder:
+  * Contains example audio files.
+* `migration/` folder:
+  * Contains scripts to help you migrate from previous versions of A2F-3D to latest.
+* `proto/` folder:
+  * Contains gRPC proto definitions for the microservices and instructions for
+    installing them.
+* `quick-start/` folder:
+  * Contains docker compose files deploying Audio2Face-3D (A2F-3D) and collecting telemetry data.
+* `scripts/` folder:
+  * Contains example applications using Audio2Face-3D (A2F-3D) Microservice and instructions for
+    running the scripts.
 
-4. Start the Flask server:
-   ```sh
-   python App.py
-   ```
+## License
 
----
+Github - [Apache 2](https://www.apache.org/licenses/LICENSE-2.0.txt)
 
-## Usage
-Once both the frontend and backend are running, open the frontend URL in the browser and start exploring the features.
+ACE NIMs and NGC Microservices - [NVIDIA AI Product License](https://www.nvidia.com/en-us/data-center/products/nvidia-ai-enterprise/eula/)
 
----
-
-## AI-Powered Features
-Cognilearn integrates cutting-edge AI technologies to enhance the learning experience:
-- **ATS-Analyzer**: Analysis Resume.![WhatsApp Image 2025-03-30 at 15 29 11](https://github.com/user-attachments/assets/b20efe0d-a0ec-46bb-9bcd-0fa0855bfab7)
-- **GITHUB-Analyzer**:  Analysis Github and give summary.
-- **Reserach-Paper**: Research Paper analysis and recommentation ![WhatsApp Image 2025-03-30 at 15 28 04](https://github.com/user-attachments/assets/5dc445ea-a99e-4861-bcf4-559f6d33e323)
-
-
-- **Personalized-RoadMap**:Give customize roadmap.
-- **AI Chatbot**: Powered by Llama 3 for interactive learning support.
-- **Interactive quizzes**: Uses wikipedia  for intelligent responses.
-- **Next.js and TypeScript**: For seamless and efficient frontend interactions.
-
----
-
-## Screenshots
-(Add project screenshots here)![WhatsApp Image 2025-03-30 at 15 30 04](https://github.com/user-attachments/assets/cf5dd9b5-5740-457f-b67b-e1c41603dc4b)
-
----
-
-## Contributing
-Feel free to fork the repository, create a new branch, and submit a pull request with your improvements.
-
-
+Note: This project will download and install additional third-party open source software projects. Review the license terms of these open source projects before use.
